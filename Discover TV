@@ -979,25 +979,15 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="Religion Channel",Quran TV
 http://103.141.66.36/bpk-tv/10201/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU",Quran TV
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_makkah/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU",Quran TV
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
 http://103.141.66.36/bpk-tv/10204/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_madina/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU",Sunna TV
-http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/live-orgin/madina.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcxW3zZEEnU0PIQ2IemeLrKzq8tTGsIQ_rA9JzfzM72Z-whhjw&usqp=CAU",ARY QTV
 http://103.141.66.36/bpk-tv/10088/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
 http://103.135.208.14/live/ibox/bd/34.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg",Peace TV Bangla
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png",Peace TV English
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png",Peace TV Urdu
@@ -1011,8 +1001,6 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b110
 http://103.141.66.36/bpk-tv/10511/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png",Aastha TV
 http://103.141.66.36/bpk-tv/10130/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/roku/images/skyworth/v5/Hare_Krishna_TV_new_roku.jpg",Hare Krshna
-http://jiocgwhub.jio.ril.com:80/Harekrsna/Harekrsna_800.m3u8
 #EXTINF:-1 tvg-logo="http://www.sadhna.com/images/sadhnanew.gif",Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 
