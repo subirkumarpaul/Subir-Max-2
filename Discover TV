@@ -592,6 +592,8 @@ http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports",Skynet Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports",Skynet Sports 1
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports",Skynet Sports 2
 https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
