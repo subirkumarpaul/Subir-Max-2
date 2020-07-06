@@ -553,12 +553,8 @@ http://103.49.168.172:8081/ebox/adsports1/chunks.m3u8
 http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png",AD Sports 3
-http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png",AD Sports 3
 http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtw3HkTzzZLJeRCw5GrYzeXGcM0CHeJu8hW_cBn-JXs_2Abz5A&usqp=CAU",AD Sports 4
-http://ddn.amrbd.com:8081/live/adsports4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtw3HkTzzZLJeRCw5GrYzeXGcM0CHeJu8hW_cBn-JXs_2Abz5A&usqp=CAU",AD Sports 4
 http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
 
