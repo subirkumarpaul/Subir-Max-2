@@ -200,6 +200,8 @@ http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Bangladesi Music",ATN Music
 http://tempamb.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Bangladesi Music",ATN Music
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangladeshi Music",Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
@@ -1149,16 +1151,6 @@ http://45.249.187.238:8081/hls/hdmi2.m3u8
 http://45.249.187.238:8081/hls/hdmi3.m3u8
 #EXTINF:-1,D
 http://45.249.187.238:8081/hls/hdmi4.m3u8
-#EXTINF:-1,E
-http://45.249.187.238:8081/hls/hdmi5.m3u8
-#EXTINF:-1,F
-http://45.249.187.238:8081/hls/hdmi6.m3u8
-#EXTINF:-1,G
-http://45.249.187.238:8081/hls/hdmi7.m3u8
-#EXTINF:-1,H
-http://45.249.187.238:8081/hls/hdmi8.m3u8
-#EXTINF:-1,I
-http://45.249.187.238:8081/hls/hdmi9.m3u8
 
 
 
