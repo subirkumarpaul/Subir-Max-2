@@ -527,7 +527,7 @@ http://107.152.234.10:8080/indian/TENCRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU",PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU",Ptv Sports*
-http://103.81.104.222:80/live/ptv-sports/index.m3u8
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU",Geo Super
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
