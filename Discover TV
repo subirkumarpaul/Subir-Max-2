@@ -700,7 +700,7 @@ https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png",Star Movies (India)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png"group-title="English Movies Channel",Star Movies (India)
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg",Star Movies Select HD
