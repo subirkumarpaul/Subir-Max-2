@@ -601,6 +601,18 @@ http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzcLS-e4KxO9eFY73lPpsnJwuq52Q2ZtS-VQxVlCEc-1NoG_J4&usqp=CAU" group-title="Sports",Bein Sports FR 1
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",160.Bein Sports HD 1
+https://bit.ly/bsports1
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",161.Bein Sports HD 2
+https://bit.ly/bsports2
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",162.Bein Sports HD 3
+https://bit.ly/bsports3
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",163.Bein Sports HD 4
+https://bit.ly/bsports4
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",164.Bein Sports HD 5
+https://bit.ly/bpsorts5
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports" group-title="Sports",Skynet Sports 1
 http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sky Net Sports" group-title="Sports",Skynet Sports 1
