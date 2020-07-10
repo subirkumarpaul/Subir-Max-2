@@ -597,15 +597,15 @@ http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2041248.png" group-title="Sports",Espn HD
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",160.Bein Sports HD 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 1
 https://bit.ly/bsports1
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",161.Bein Sports HD 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 2
 https://bit.ly/bsports2
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",162.Bein Sports HD 3
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 3
 https://bit.ly/bsports3
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",163.Bein Sports HD 4
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 4
 https://bit.ly/bsports4
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",164.Bein Sports HD 5
+#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 5
 https://bit.ly/bpsorts5
 
 
