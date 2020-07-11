@@ -995,6 +995,9 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="Kids Channel",Mr Bean Show
 http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
 
+#EXTINF:0 tvg-logo="" group-title="Kids Channel",Doreamon Cartoon
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png" group-title="Kids Channel",Disney Channel
 http://103.141.66.36/bpk-tv/10476/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png" group-title="Kids Channel",Disney Channel
