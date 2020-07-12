@@ -765,7 +765,7 @@ http://103.49.168.172:8081/ebox/in_romedy_now/playlist.m3u8
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png" group-title="English Movies Channel",Colors Infinity
-http://103.135.208.14/live/ibox/bd/111.m3u8
+http://103.135.208.14:80/live/ibox/bd/111.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxJfwGi4HVlqX3nKNTldHf2N13uEM5BZsLOEFPOJnWM2QrH3Q&usqp=CAU" group-title="English Movies Channel",COMEDY CENTRAL HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
