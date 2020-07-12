@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="http://bit.ly/alluepg"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/boomski/TV/master/EPG/guide.xml"
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladesi National TV",BTV National
