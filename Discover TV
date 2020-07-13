@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/subirkumarpaul/IPTV-1/master/EPG/WebGrab%2B%2B.config_A.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/subirkumarpaul/IPTV-1/master/EPG/guide_hindustan.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladesi National TV",BTV National
 http://103.141.66.36/bpk-tv/10330/default/index.m3u8
