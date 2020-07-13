@@ -309,6 +309,8 @@ http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpbBsc2MGhsbRXPW5K6TmSuHvb0Bge1uRYt_3OF0Me8HeySDB8&usqp=CAU" group-title="Hinde Entertainment",Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpCO_bpjsqLfBm6IIrzi0jw92HTEDJ0aeQh_s3ccndOqiGRlQU&usqp=CAU" group-title="Hinde Entertainment",Zee Anmol
+https://y5w8j4a9.ssl.hwcdn.net/zeeanmol/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors HD
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
@@ -319,6 +321,7 @@ http://107.152.234.10:8080/indian/hindi-COLORSUK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU" group-title="Hinde Entertainment",And TV HD
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="Hinde Entertainment",And TV
 http://103.141.66.36/bpk-tv/10028/default/index.m3u8
 
