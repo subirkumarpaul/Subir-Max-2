@@ -778,6 +778,9 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcnXIzcH6v2Ku6hDDR8PtE8IAyRMOFeAgiOSpLmbCkLwSWLEV_&usqp=CAU" group-title="English Movies Channel",And Flix
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
+#EXTINF:-1 tvg-logo="",And Price HD
+http://indtv.online/0-9-privehd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU" group-title="English Movies Channel",Zee Café
 http://103.141.66.36/bpk-tv/10229/default/index.m3u8
