@@ -1237,5 +1237,12 @@ http://103.141.66.36/bpk-tv/10334/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MowVFVl.jpg" group-title="Indian",Sony Marathi
 https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master.m3u8
 
-#EXTINF:-1,X
+#EXTINF:-1,1
 http://indtv.online/Zee_TV_HD.m3u8
+#EXTINF:-1,2
+http://indtv.online/EROSNOW_Hindi_Premium.m3u8
+
+
+
+
+
