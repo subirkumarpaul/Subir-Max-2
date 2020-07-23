@@ -1247,6 +1247,9 @@ http://indtv.online/HBO_HD.m3u8
 http://indtv.online/MNPLUS.m3u8
 #EXTINF:-1 group-title="Indian",5
 http://indtv.online/Movies_Now_HD.m3u8
+#EXTINF:-1 group-title="Indian",6
+http://indtv.online/Movies_Now2_HD.m3u8
+
 
 
 
