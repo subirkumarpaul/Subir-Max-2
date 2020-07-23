@@ -1107,7 +1107,7 @@ https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJrxx2YxM1UzdzzzJ9Sxi9QIfGaU_-KKqF2gVyiDUyi-mS8SVl&usqp=CAU" group-title="Kids Channel",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1 tvg-logo="",Jio Kids
+#EXTINF:-1 tvg-logo="" group-title="Kids Channel",Jio Kids
 http://indtv.online/Jio_KIDS.m3u8
 
 
