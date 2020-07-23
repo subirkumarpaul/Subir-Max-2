@@ -1245,7 +1245,8 @@ http://indtv.online/EROSNOW_Hindi_Premium.m3u8
 http://indtv.online/HBO_HD.m3u8
 #EXTINF:-1 group-title="Indian",4
 http://indtv.online/MNPLUS.m3u8
-
+#EXTINF:-1 group-title="Indian",5
+http://indtv.online/Movies_Now_HD.m3u8
 
 
 
