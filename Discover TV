@@ -756,6 +756,8 @@ http://103.135.208.14/live/ibox/bd/73.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyXAuOdGUrQ5oSy7Z5aPGNq0zQRHsvcTM7wuUovM7Ro8Ng0n20&usqp=CAU" group-title="Cooking Channel",Food Food
 http://103.141.66.36/bpk-tv/10014/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyXAuOdGUrQ5oSy7Z5aPGNq0zQRHsvcTM7wuUovM7Ro8Ng0n20&usqp=CAU" group-title="Cooking Channel",Food Food
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="Cooking Channel",Hum Masala
 https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
