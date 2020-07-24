@@ -1272,8 +1272,11 @@ https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?h
 #EXTINF:-1 group-title="Indian",1
 http://indtv.online/Zee_TV_HD.m3u8
 #EXTINF:-1 group-title="Indian",2
+http://43.251.86.2:8080/hls/channel_1.m3u8
 #EXTINF:-1 group-title="Indian",3
+http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1 group-title="Indian",4
+http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1 group-title="Indian",5
 #EXTINF:-1 group-title="Indian",6
 
