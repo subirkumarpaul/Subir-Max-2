@@ -930,9 +930,9 @@ http://45.120.188.65:8080/0.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Hinde Music",8X Music
 http://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="English Music",VH1 
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TraceSportStars.uk.png" group-title="English Music",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
