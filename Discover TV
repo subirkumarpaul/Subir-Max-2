@@ -1317,6 +1317,7 @@ http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1 group-title="Indian",4
 http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1 group-title="Indian",5
+http://103.135.208.14/live/ibox/bd/53.m3u8
 #EXTINF:-1 group-title="Indian",6
 
 
