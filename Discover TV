@@ -712,7 +712,7 @@ http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Information Channel",Animal Planet HD
 http://103.135.208.14/live/ibox/bd/93.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Information Channel",Animal Planet
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+https://stream.amrbd.com/Animal_Planent/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Information Channel",Sony BBC Earth HD
 http://indtv.online/Sony_BBC_Earth_HD.m3u8
