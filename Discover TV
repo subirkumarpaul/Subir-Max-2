@@ -1012,6 +1012,12 @@ https://edge01.iptv.digijadoo.net/live/times_now/chunks.m3u8
 #EXTINF:-1 tvg-logo= "https://s4.gifyu.com/images/image5a79c47826734986.png" group-title="Hinde News",APN
 https://edge01.iptv.digijadoo.net/live/apn_news/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hinde News",India_News
+https://stream.amrbd.com/India_News/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hinde News",Times_now
+https://stream.amrbd.com/Times_now/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hinde News",R Bharet
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
 
