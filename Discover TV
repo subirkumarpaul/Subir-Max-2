@@ -708,7 +708,7 @@ https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Information Channel",Discovery Science
 https://stream.amrbd.com/Discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBMckYo02SqcERkHOOFLIk9BS2bwhA-If6yJmFzH3rhCt0PeBC&usqp=CAU" group-title="Information Channel",Discovery ID
-https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+https://stream.amrbd.com/Jeet-Prime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="Information Channel",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
@@ -790,6 +790,8 @@ https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBDbdvElT5PtG7g65aBce-gV1cs1D1TMGqM4L8tOzfzfTs5dK8&usqp=CAU" group-title="Cooking Channel",FYI TV 18 HD
 https://stream.amrbd.com/Fyi_Hd/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBDbdvElT5PtG7g65aBce-gV1cs1D1TMGqM4L8tOzfzfTs5dK8&usqp=CAU",FYI TV 18 HD
+https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyXAuOdGUrQ5oSy7Z5aPGNq0zQRHsvcTM7wuUovM7Ro8Ng0n20&usqp=CAU" group-title="Cooking Channel",Food Food
 http://103.141.66.36/bpk-tv/10014/default/index.m3u8
