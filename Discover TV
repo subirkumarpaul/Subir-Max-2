@@ -789,7 +789,7 @@ http://103.135.208.14/live/ibox/bd/65.m3u8
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBDbdvElT5PtG7g65aBce-gV1cs1D1TMGqM4L8tOzfzfTs5dK8&usqp=CAU" group-title="Cooking Channel",FYI TV 18 HD
-http://103.135.208.14/live/ibox/bd/73.m3u8
+https://stream.amrbd.com/Fyi_Hd/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyXAuOdGUrQ5oSy7Z5aPGNq0zQRHsvcTM7wuUovM7Ro8Ng0n20&usqp=CAU" group-title="Cooking Channel",Food Food
 http://103.141.66.36/bpk-tv/10014/default/index.m3u8
