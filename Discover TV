@@ -226,6 +226,8 @@ http://103.141.66.36/bpk-tv/10112/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Indian Bangla Entertainment ",Ruposhi Bangla
 http://103.141.66.36/bpk-tv/10111/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Indian Bangla Entertainment ",Ruposhi Bangla
+https://stream.amrbd.com/Ruposhi-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJe7LqmU4A8hkPzuAH5QZfl26GFaIT_I--rlobPJUGwTXHazT-&usqp=CAU" group-title="Indian Bangla Entertainment ",R Plus Gold
 http://103.141.66.36/bpk-tv/10181/default/index.m3u8
