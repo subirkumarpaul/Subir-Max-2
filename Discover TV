@@ -435,7 +435,7 @@ http://103.205.133.19/hls/andpicture.m3u8
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMobGI-p25pXFty4VhxAvYVhCOHboQGaosmHkCnEaNcIhRf2bD&usqp=CAU" group-title="Hinde Movies",And Xplor HD
-http://indtv.online/0-9-209.m3u8
+http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
 
 #EXTINF:0 group-title="Hinde Movies" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/4x/test_pic1535463753952.jpg" tvg-logo-small="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/4x/test_pic1535463753952.jpg" ,FILMY
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
