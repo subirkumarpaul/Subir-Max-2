@@ -1051,6 +1051,9 @@ https://stream.amrbd.com/Times_now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hinde News",R Bharet
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS98nglCKBLmxuFQgW3nyuokmLM4b-7p8y_TMIHWOkXlQFKrKSk&usqp=CAU" group-title="English News",Care World
+http://103.141.66.36/bpk-tv/10176/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSayffV33FakugfG9ynorDe80Ls4bxNohiG_b2veye8wRc-zbEI&usqp=CAU" group-title="Hinde News",DD News
 http://103.141.66.36/bpk-tv/10332/default/index.m3u8
 
@@ -1151,8 +1154,9 @@ http://103.141.66.36/bpk-tv/10135/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="English News",FR 24
 http://103.141.66.36/bpk-tv/10232/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS98nglCKBLmxuFQgW3nyuokmLM4b-7p8y_TMIHWOkXlQFKrKSk&usqp=CAU" group-title="English News",Care World
-http://103.141.66.36/bpk-tv/10176/default/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English News",TVT TV
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD (India)
 http://45.249.187.238:8081/hls/new14.m3u8
