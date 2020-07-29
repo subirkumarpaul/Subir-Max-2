@@ -1154,6 +1154,9 @@ http://103.141.66.36/bpk-tv/10135/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="English News",FR 24
 http://103.141.66.36/bpk-tv/10232/default/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English News",RTP TV
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w55167431.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="English News",TVT TV
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
 
