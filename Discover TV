@@ -700,6 +700,34 @@ http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2TFIdaSUEfwaRDwVI4J_8OhFWxNjRxO5sNQ&usqp=CAU" group-title="Sports",CBC Sports
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 1
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 2
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 3
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 4
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 5
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 6
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 7
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 8
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 9
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 10
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 11
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports"
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 1
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 1
 https://bit.ly/bsports1
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 2
