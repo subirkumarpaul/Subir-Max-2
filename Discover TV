@@ -469,6 +469,8 @@ http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture HD
 http://103.205.133.19/hls/andpicture.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture HD
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andprivehd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 
