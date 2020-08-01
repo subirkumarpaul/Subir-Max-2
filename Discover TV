@@ -995,6 +995,8 @@ http://103.141.66.36/bpk-tv/10315/default/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="Hinde Music",9XM
 http://103.141.66.36/bpk-tv/10266/default/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="Hinde Music",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="Hinde Music",9X Jalwa
 http://103.141.66.36/bpk-tv/10283/default/index.m3u8
