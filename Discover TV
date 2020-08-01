@@ -472,11 +472,8 @@ http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
 #EXTINF:0 group-title="Hinde Movies" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/4x/test_pic1535463753952.jpg" tvg-logo-small="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/4x/test_pic1535463753952.jpg" ,FILMY
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpSPzhIL3WrwUVhdA_oxX0xrqLXzXQ0Xi0jA&usqp=CAU" group-title="Hinde Movies",NETFLIX BOLLYOOD HD
-http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/17460.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hinde Movies",,EROSNOW Hindi Premium
-http://indtv.online/EROSNOW_Hindi_Premium.m3u8
-
+#EXTINF:0 group-title="Hinde Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzrBU8R-45edD6PGyPEFRphH1bFM-Kvjan05zOA0qDX2vVCv38&usqp=CAU",MBC Bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAvEjqn1pmZ0Y0sKbxKTqLoICHC1AVAoZMpu39uaa4HRfHho-a&usqp=CAU" group-title="Hinde Movies",B4U Movies
