@@ -1206,7 +1206,7 @@ http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.f
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHldZEABEQSbU3k-wSVq1uSN_9v11GUQITGA&usqp=CAU" group-title="Kids Channel",Doreamon Cartoon
 http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
 
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png" group-title="kids",ZEE5 Kids
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png" group-title="Kids Channel",ZEE5 Kids
 http://indtv.online/zee5/0-9-290.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png" group-title="Kids Channel",Disney Channel
