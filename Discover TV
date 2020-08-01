@@ -905,6 +905,8 @@ http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andflixhd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcnXIzcH6v2Ku6hDDR8PtE8IAyRMOFeAgiOSpLmbCkLwSWLEV_&usqp=CAU" group-title="English Movies Channel",And Flix HD
 http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcnXIzcH6v2Ku6hDDR8PtE8IAyRMOFeAgiOSpLmbCkLwSWLEV_&usqp=CAU" group-title="English Movies Channel",And Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcnXIzcH6v2Ku6hDDR8PtE8IAyRMOFeAgiOSpLmbCkLwSWLEV_&usqp=CAU" group-title="English Movies Channel",And Flix
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="English Movies Channel",And Prive HD
