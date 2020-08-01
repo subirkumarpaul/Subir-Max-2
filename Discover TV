@@ -431,9 +431,9 @@ https://stream.amrbd.com/kn13a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Hinde Movies",Colors Cineplex UK
 http://107.152.234.10:8080/indian/hindi-COLORSCINEPLEXUK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJ-gR9JBUq6mIq5QUA0vFUhOIS31P-BzUsDQ&usqp=CAU" group-title="Hinde Movies",UTV Action
+#EXTINF:-1 tvg-logo="http://tv.mymoviebazar.net/images/utv-action.png" group-title="Hinde Movies",UTV Action
 http://45.249.187.238:8081/hls/tsl-7.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJ-gR9JBUq6mIq5QUA0vFUhOIS31P-BzUsDQ&usqp=CAU" group-title="Hinde Movies",UTV Action
+#EXTINF:-1 tvg-logo="http://tv.mymoviebazar.net/images/utv-action.png" group-title="Hinde Movies",UTV Action
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18187.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/UTV_Movies_logo.png/250px-UTV_Movies_logo.png" group-title="Hinde Movies",UTV Movies
