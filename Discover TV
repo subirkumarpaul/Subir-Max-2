@@ -911,6 +911,8 @@ http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 https://stream.amrbd.com:443/ZeePriveHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="English Movies Channel",And Prive HD
 http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="English Movies Channel",And Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="English Movies Channel",And Prive
 http://z5amshls.akamaized.net/andprive/playlist.m3u8
 
