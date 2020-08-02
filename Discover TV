@@ -868,7 +868,7 @@ https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="Information Channel",History TV 18 HD
 http://103.141.66.36/bpk-tv/10479/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Information Channel",History TV 18
-http://indtv.online/History_18_Hindi.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/History2_Canada.png" group-title="Information Channel",History TV 2
 https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/History2_Canada.png" group-title="Information Channel",History TV 2
