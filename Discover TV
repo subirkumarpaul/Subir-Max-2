@@ -438,6 +438,8 @@ http://103.135.208.14:80/live/ibox/bd/44.m3u8
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU" group-title="Hinde Movies",Sony WAH
+http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/782.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU" group-title="Hinde Movies",Sony WAH
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
 
 
