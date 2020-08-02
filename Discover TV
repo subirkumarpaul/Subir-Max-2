@@ -208,6 +208,8 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlo7SOWpKROTnLCYRz90LWcLw-4hxBykrXsQ&usqp=CAU" group-title="Religion Channel",Medina TV (Bangla)
 http://45.249.187.238:8081/hls/new9.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQE5qQiwpxrPsZIcGjWFnpk3fYY8-n4qTXW-Q&usqp=CAU" group-title="Religion Channel",Sri Dham Mayapur (Bangla)
+https://video3.mayapur.tv:443/allTemples/MayapurTV/MayapurTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religion Channel",Torongo TV
 http://stream.telelivebd.com/Torongotv/Torongotv.m3u8
 #EXTINF:-1 tvg-logo="https://aldawah.tv/wp-content/themes/al_dawah/images/logo.png" group-title="Religion Channel",Aldawah TV
