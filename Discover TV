@@ -673,8 +673,11 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU" group-title="Sports",Ten Sports PK
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",Ads sport cricket
+#EXTINF:-1 tvg-logo="" group-title="Sports",Ads Sport 
 http://212.47.252.54/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTYFjtr_ZNAqpK2d5hZMI-nE7nDbsgnqXx_Q&usqp=CAU" group-title="Sports",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYHkM3VzBu4zLcrGZz5c3sT3Cnpyw65LUKRw&usqp=CAU" group-title="Sports",PPTV HD36
 http://183.182.100.184/live/pptvthai/playlist.m3u8
