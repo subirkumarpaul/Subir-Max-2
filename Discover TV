@@ -1334,7 +1334,7 @@ http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high
 http://indtv.online/zee5/0-9-290.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png" group-title="Kids Channel",Disney Channel
-http://103.141.66.36/bpk-tv/10476/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png" group-title="Kids Channel",Disney Channel
 http://45.249.187.238:8081/hls/live0.m3u8
 
