@@ -1059,6 +1059,8 @@ https://ws.flv.nimo.tv/live/su1599512427641r25f7c2cb1ceea0ee202f7d6b35e93a1c_hig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU" group-title="English Movies Channel",Star World (India)
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="English Movies Channel",Star World (UAE)
+http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/153.ts
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm7ORhOnbRxb2uJD0LJibEsCCC0VlqPzcrEL7eJuYeLocqrRHQ&usqp=CAU" group-title="Hinde Music",MTV HD+
 http://107.152.234.10:8080/indian/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
