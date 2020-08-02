@@ -1106,6 +1106,8 @@ http://45.120.188.65:8080/0.ts
 http://playlive.goonj.pk/8xmweb_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Hinde Music",8X Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmQL36s7Q6XudWOG9CaLY6YgOoEw4_lvvk2w&usqp=CAU" group-title="Hinde Music",Jalwa
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="English Music",VH1 HD
