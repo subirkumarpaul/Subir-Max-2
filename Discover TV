@@ -847,7 +847,7 @@ http://indtv.online/TLC_Hindi.m3u8
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",Travel XP HD (Hinde)
-http://107.152.234.10:8080/indian/hindi-TravelXPHD/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",,Travel XP HD (English)
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/690
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",,Travel XP HD (English)
