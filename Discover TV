@@ -1118,6 +1118,9 @@ http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TraceSportStars.uk.png" group-title="English Music",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjb1UBTpwNjnYsVjRcArMtLEAaWuTsGOTMQA&usqp=CAU" group-title="English Music",Music Box Russra
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/89.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU" group-title="English Music",9XO
 http://103.141.66.36/bpk-tv/10140/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtiFlne_tRCm2huKtWUb81ZipUIppBR5AoMppwmGGXv2bQDcQw&usqp=CAU" group-title="English Music",9XO
