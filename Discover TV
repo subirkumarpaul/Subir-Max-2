@@ -1058,6 +1058,8 @@ http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzBCSFMBs6XLSE16sz8vkJI6IgjXWNt_hDHg&usqp=CAU" group-title="English Movies Channel",MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU" group-title="English Movies Channel", MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="English Movies Channel",KIX
