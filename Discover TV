@@ -622,7 +622,7 @@ https://stream.amrbd.com:443/Ten3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3
-http://103.205.133.19/hls/ten3.m3u8
+http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
 
