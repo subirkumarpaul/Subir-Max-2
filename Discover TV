@@ -736,22 +736,24 @@ http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2TFIdaSUEfwaRDwVI4J_8OhFWxNjRxO5sNQ&usqp=CAU" group-title="Sports",CBC Sports
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",RM TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTe9LMkCVerF7PAjdm36iYzdU-EzGbHdsNG2A&usqp=CAU" group-title="Sports",Real Madrid TV 
 http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTe9LMkCVerF7PAjdm36iYzdU-EzGbHdsNG2A&usqp=CAU" group-title="Sports",Real Madrid TV 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",Barca TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQiiFM16auMUqQA8AoXHNdj3vLZCognYo0DQ&usqp=CAU" group-title="Sports",Barca TV
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/787
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 1
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 2
-http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22188.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 3
-http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22189.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 4
-http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22190.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 5
-http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22191.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 6
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22187.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Super Sports 7
