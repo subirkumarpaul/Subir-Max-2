@@ -1012,6 +1012,9 @@ https://edge01.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRW7bwrKqPK7xc-lJH7h3CxzDftK-bslZXKnYNbwMUOAklu0S6&usqp=CAU" group-title="English Movies Channel",Lotus Macau
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_X_jxeXi0X7KfXo71ffntwPwikWaO1bfmQw&usqp=CAU" group-title="English Movies Channel",Fox
+http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/117.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaKGqJsUGwCDnTYMFV1CohVXfcxFzw7cH8efkyNiaLeTEMwfyH&usqp=CAU" group-title="English Movies Channel",Fox Movies
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaKGqJsUGwCDnTYMFV1CohVXfcxFzw7cH8efkyNiaLeTEMwfyH&usqp=CAU" group-title="English Movies Channel",Fox Movies
