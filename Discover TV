@@ -818,19 +818,19 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Information Channel",Discovery HD (Bangla)
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/108
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Information Channel",Discovery (Hindi)
-http://indtv.online/Discovery_Channel_Hindi.m3u8
+
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Information Channel",Discovery HD
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Information Channel",Discovery
 http://43.231.22.238:8081/hdcrictv/ctg_discovery/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU" group-title="Information Channel",Discovery Asia
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Information Channel",Discovery Science
-https://stream.amrbd.com/Discoveryscience/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBMckYo02SqcERkHOOFLIk9BS2bwhA-If6yJmFzH3rhCt0PeBC&usqp=CAU" group-title="Information Channel",Discovery ID
-https://stream.amrbd.com/Jeet-Prime/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="Information Channel",Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_eYsv-q4vU_KRGbPHDz2MK0vcAdnFOqCzFA&usqp=CAU" group-title="Information Channel",Discovery History
 http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
@@ -838,7 +838,7 @@ http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Information Channel",Animal Planet HD
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Information Channel",Animal Planet
-https://stream.amrbd.com/Animal_Planent/tracks-v1a1/mono.m3u8
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Information Channel",Sony BBC Earth HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
@@ -847,6 +847,7 @@ http://103.49.168.172:8081/ebox/in_bbc_earth_hd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic HD
+http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 http://otv.ftpbd.net:80/streams/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic
 http://103.141.66.36/bpk-tv/10061/default/index.m3u8
@@ -856,7 +857,7 @@ https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
-https://stream.amrbd.com:443/Nat_Geo_wild/tracks-v1a1/mono.m3u8
+http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Information Channel",Nat Geo People
 https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
