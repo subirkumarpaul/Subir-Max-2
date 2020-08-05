@@ -475,8 +475,11 @@ http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/206.ts
 https://watchindia.net:8443/live/53030/45113/803.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Hinde Movies",Colors Cineplex UK
 http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/54090.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Hinde Movies",Colors Cineplex UK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Hinde Movies",Colors Cineplex
 http://indtv.online/jiotv/jojotv/Colors_Cineplex.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Hinde Movies",Rishtey Cineplex
+http://indtv.online/jiotv/jojotv/Rishtey_Cineplex.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://tv.mymoviebazar.net/images/utv-action.png" group-title="Hinde Movies",UTV Action
 http://45.249.187.238:8081/hls/tsl-7.m3u8
