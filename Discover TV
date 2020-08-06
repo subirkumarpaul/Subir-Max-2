@@ -1081,6 +1081,7 @@ https://watchindia.net:8443/live/53030/45113/2081.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English Movies Channel",HBO
 http://otv.ftpbd.net:80/streams/111/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English Movies Channel",HBO
+http://173.82.54.226:8080/live/HBO-MOVIE/CH214771/f979579fd41f6e40573cd1e3f9ee7b9d5dabe45d7f07160d0e59bae17785dced/index.m3u8
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English Movies Channel",HBO
 http://45.249.187.238:8081/hls/new13.m3u8
