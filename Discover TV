@@ -1040,7 +1040,7 @@ http://103.205.133.19:80/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies Channel",Sony Pix HD (Asia) 
 http://indtv.online/jiotv/jojotv/Sony_Pix_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies Channel",Sony Pix
-http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/149.m3u8
+http://173.82.170.226:8080/live/SONY-PIXHD/CH214771/346ccf654094d96d92a8b6f11449a1515282634d2ffcb368ba8af32836f6c1c6/SONY-PIXHD_2_playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC91iczMaHbur_QX-SQKCTccfjLmS7KX3V0JV37z8SH0maiGGd&usqp=CAU" group-title="English Movies Channel",MGM Sci-fi
