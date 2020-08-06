@@ -771,13 +771,13 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/787
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqD5uHfv6JiXAV1syD_nBoNmgFL_lUx-nBtg&usqp=CAU" group-title="Sports",BT Sports 1 FHD
 http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/52437.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 2 FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR75_RsxHPl2jXXH3qQA6WjbsTobdOg8_AXzw&usqp=CAU" group-title="Sports",BT Sports 2
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/50771.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 3
 
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 1 FHD
-
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 1 FHD
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports ESPN
 
 
 
