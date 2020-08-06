@@ -284,7 +284,7 @@ http://103.141.66.36/bpk-tv/10336/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies HD
-http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/666.ts
+http://173.82.170.226:8080/live/JALSHA-MOVIES/CH214771/8f5dfe48623b4c9ff5d93eafb3f872ea049674ddd1307d8b9c3ff4084ac935f3/JALSHA-MOVIES_1_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
