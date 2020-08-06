@@ -774,11 +774,11 @@ http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/52437.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR75_RsxHPl2jXXH3qQA6WjbsTobdOg8_AXzw&usqp=CAU" group-title="Sports",BT Sports 2
 http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/50771.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 3
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest/scale-to-width-down/340?cb=20191227182642" group-title="Sports",BT Sports 3
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/50772.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports ESPN
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTf2EGxvdEBjADebfZ7udYLMdTtXbxRJoHtrw&usqp=CAU" group-title="Sports",BT Sports ESPN
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/50773.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSD0aSj2MAnNiLKwO4tB6gf_HbF_bmVeXb5Pw&usqp=CAU" group-title="Sports",Super Sports 1
