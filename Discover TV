@@ -834,6 +834,9 @@ http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55658.m3u8
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22199.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/G4-mCMVwi6hljoCMTDQ29Pu9WkzpaKxEvrv_AH4UbGi1AObyvR1T9kXVukK34j08GGt1iaAunHFiH3xNL8Vsj73uZ-cibuUrS__QG9PoGYa2awySEi9B9g2_6Rplm3HPag" group-title="Sports",Super Sports 1 Maximo
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22200.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIbZrmDReCJPdaN75DmutPkaLP8N2ipLUg-A&usqp=CAU" group-title="Sports",Super Sports
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22201.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 1
