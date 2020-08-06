@@ -768,6 +768,19 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQiiFM16auMUqQA8AoXHNdj3vLZCognYo0DQ&usqp=CAU" group-title="Sports",Barca TV
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/787
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqD5uHfv6JiXAV1syD_nBoNmgFL_lUx-nBtg&usqp=CAU" group-title="Sports",BT Sports 1 FHD
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/52437.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 2 FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 1 FHD
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 1 FHD
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSD0aSj2MAnNiLKwO4tB6gf_HbF_bmVeXb5Pw&usqp=CAU" group-title="Sports",Super Sports 1
 http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55646.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSD0aSj2MAnNiLKwO4tB6gf_HbF_bmVeXb5Pw&usqp=CAU" group-title="Sports",Super Sports 1
