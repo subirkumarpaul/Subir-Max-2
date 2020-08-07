@@ -1185,11 +1185,14 @@ http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="English Movies Channel",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="Pakistani",Filmax
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKCvQAC.jpg"" group-title="English Movies Channel",Filmax
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Pakistani",Film World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q85u7XS.jpg"" group-title="English Movies Channel",Film World
 http://playlive.goonj.pk/filmworldweb_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/110-1103882_hollywood-tv-logo-clipart.png" group-title="English Movies Channel",Hollywood TV
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
 #EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies Channel",Nimo TV 1
 http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
