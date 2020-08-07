@@ -956,12 +956,14 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",Travel XP HD (Hinde)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",,Travel XP HD (Bangla)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",Travel XP HD (Bangla)
 http://173.82.159.42:8080/live/TRAVELXP-BANGLA/CH214771/95ccac13a6efd30b9feb6c1f127fc2f8dcbcf5d3931c814d2230209abadc0ba3/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",,Travel XP HD (English)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",Travel XP HD (English)
 http://indtv.online/jiotv/jojotv/Travel_XP_HD.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Travel Channel",,Travel Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Travel Channel",Travel Channel
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="Travel Channel",Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="Information Channel",History TV 18 HD
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
