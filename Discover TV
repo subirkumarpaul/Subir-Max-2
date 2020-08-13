@@ -338,6 +338,8 @@ https://stream.amrbd.com/abp/tracks-v1a1/mono.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvsegs_S0AcgLlcHXcV8BpSykpFlcsGcdADA&usqp=CAU" group-title="Indian Bangla News",R Plus News
 http://103.141.66.36/bpk-tv/10078/default/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla News",News Time Bangla
+https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hinde Entertainment",Star Plus HD
