@@ -283,8 +283,11 @@ https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image97e9a86cc3e3991d.png" group-title="Indian Bangla Entertainment ",Tara Bangla
 https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU"group-title="Indian Bangla Entertainment",Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU" group-title="Indian Bangla Entertainment",Enter 10 Bangla
 http://103.141.66.36/bpk-tv/10187/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla Entertainment",Orange Bangla
+https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG" group-title="Indian Bangla Entertainment ",DD Bangla
 http://103.141.66.36/bpk-tv/10336/default/index.m3u8
