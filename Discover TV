@@ -663,7 +663,7 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
-http://103.205.133.14/hls/sonysix.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
 https://stream.amrbd.com:443/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
@@ -678,6 +678,7 @@ http://103.49.168.172:8081/ebox/espn/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Eurosports
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQan9sYoSXeK_Fs-gGKeC-GF5eWrezQHrAkqYZSNcpNdusmyIfJ&usqp=CAU" group-title="Sports",D Sports
 https://stream.amrbd.com:443/Discovery-Tv/tracks-v1a1/mono.m3u8
