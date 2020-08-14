@@ -1320,6 +1320,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="English Music",VH1 HD
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="English Music",VH1 HD
+http://27.147.156.82:80/bpk-token/kimicsmi5aaaaaaaaajsrsbaaaaaaaaaaaagt0eiwjrstcvi/0002241/10151-audio_50613_und=48000-video=3000000.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TraceSportStars.uk.png" group-title="English Music",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
