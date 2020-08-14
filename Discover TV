@@ -40,7 +40,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladesi Entertainment",Channel 9 HD
-http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangladesi Entertainment",Bangla Vision
 https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
