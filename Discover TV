@@ -1207,6 +1207,8 @@ https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU" group-title="English Movies Channel", MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="English Movies Channel",24/7 Box Tv
+http://51.158.190.97:80/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToy2_1_llsEGD9T1iX_944soaHu2rCgQNaJg&usqp=CAU" group-title="English Movies Channel",M Net Action Movies
 http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55332.m3u8
