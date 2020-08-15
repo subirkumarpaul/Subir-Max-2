@@ -209,6 +209,8 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlo7SOWpKROTnLCYRz90LWcLw-4hxBykrXsQ&usqp=CAU" group-title="Religion Channel",Medina TV (Bangla)
 http://45.249.187.238:8081/hls/new9.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlo7SOWpKROTnLCYRz90LWcLw-4hxBykrXsQ&usqp=CAU" group-title="Religion Channel",Medina TV (Bangla)
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQE5qQiwpxrPsZIcGjWFnpk3fYY8-n4qTXW-Q&usqp=CAU" group-title="Religion Channel",Sri Dham Mayapur (Bangla)
 https://video3.mayapur.tv:443/allTemples/MayapurTV/MayapurTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religion Channel",Torongo TV
@@ -579,9 +581,7 @@ https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
 #EXTINF:0 tvg-logo="https://j2apps.s.llnwi.net/is1/media/images/6523.BOXCinema.in/1x1/english movie_pic1561284881697.jpg" group-title="Hinde Movies",BOX CINEMA
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hinde Movies",Blu Entertenment
-http://103.81.104.222:80/live/blue@ant/index.m3u8
-
+l
 #EXTINF:-1 tvg-logo="" group-title="Hinde Movies",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
@@ -1186,6 +1186,9 @@ http://astra.powernet.com.ru:5000/channel_239.1.10.33/98721854.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRW7bwrKqPK7xc-lJH7h3CxzDftK-bslZXKnYNbwMUOAklu0S6&usqp=CAU" group-title="English Movies Channel",Lotus Macau
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg" group-title="English Movies Channel",Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_X_jxeXi0X7KfXo71ffntwPwikWaO1bfmQw&usqp=CAU" group-title="English Movies Channel",Fox
