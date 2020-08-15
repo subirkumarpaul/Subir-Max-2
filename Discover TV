@@ -1753,6 +1753,8 @@ http://103.114.39.39/HDD2/Hindi%20Movies/2020/Street.Dancer.3D.2020.mp4
 http://103.114.39.39/HDD2/Hindi%20Movies/2020/Malang.2020.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMV2l8TFQaHyVlyeDz94iTBQk7hEAT2vGxhQ&usqp=CAU" group-title="Hindi Movies",Jawaani Jaaneman
 http://103.114.39.39/HDD2/Hindi%20Movies/2020/Jawaani.Jaaneman.2020.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUc2TS3Ttqdb8T1wfwFjwfHa5BAUVerI2z_w&usqp=CAU" group-title="English Movies",Extraction
+http://103.114.39.39/HDD2/English%20Movies/2020/Extraction.2020.mp4
 #EXTINF:-1 group-title="Indian",2
 http://43.251.86.2:8080/hls/channel_1.m3u8
 #EXTINF:-1 group-title="Indian",3
