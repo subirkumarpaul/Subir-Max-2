@@ -1611,7 +1611,7 @@ http://103.141.66.36/bpk-tv/10204/default/index.m3u8
 http://103.141.66.36/bpk-tv/10088/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg"group-title="Religion Channel",Peace TV Bangla
-http://103.135.208.14/live/ibox/bd/34.m3u8
+http://peacetv.ashttp22.visionip.tv:80/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png"group-title="Religion Channel",Peace TV English
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png"group-title="Religion Channel",Peace TV Urdu
