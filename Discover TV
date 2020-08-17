@@ -792,6 +792,9 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2TFIdaSUEfwaRDwVI4J_8OhFWxNjRxO5sNQ&usqp=CAU" group-title="Sports",CBC Sports
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ0u_f7qrlarYoOVcyaPfUCKApEXWmQRU7-Q&usqp=CAU" group-title="Sports",Rad Bull TV
+http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_928.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTe9LMkCVerF7PAjdm36iYzdU-EzGbHdsNG2A&usqp=CAU" group-title="Sports",Real Madrid TV 
 http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTe9LMkCVerF7PAjdm36iYzdU-EzGbHdsNG2A&usqp=CAU" group-title="Sports",Real Madrid TV 
