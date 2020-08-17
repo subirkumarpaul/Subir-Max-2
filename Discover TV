@@ -1174,7 +1174,7 @@ http://digiiptv.ddns.net:25461/live/mdmurshedalom/akwDtbRVgl/861.ts
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png" group-title="English Movies Channel",Colors Infinity
 http://103.135.208.14:80/live/ibox/bd/111.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png" group-title="English Movies Channel",Colors Infinity
-http://indtv.online/jiotv/jojotv/Colors_Infinity_HD.m3u8
+https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxJfwGi4HVlqX3nKNTldHf2N13uEM5BZsLOEFPOJnWM2QrH3Q&usqp=CAU" group-title="English Movies Channel",COMEDY CENTRAL HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
