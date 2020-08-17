@@ -1620,6 +1620,9 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVQx-eBZcwmoX2X0C9dCr2wgsKvig4Uii5IA&usqp=CAU" group-title="Religion Channel",British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net:80/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-avc1_1500000=7-mp4a_65600_eng=1.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO3kJty2-q6GJBx4CTtm2bnN8RbVgXJLHkTg&usqp=CAU" group-title="Religion Channel",Better Health TV
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/chunklist_w1792145345.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoLZhDYy0d4JYUcXfMQK_LbexJUaIVK1ON3Q&usqp=CAU"group-title="Religion Channel",Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/94/09/95/94099578-6caa-1648-4e66-818ea7e53728/mzl.gojhlglk.png/1080x800bb.jpg"group-title="Religion Channel",Swamiji TV
