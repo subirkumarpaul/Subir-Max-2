@@ -809,9 +809,11 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/787
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqD5uHfv6JiXAV1syD_nBoNmgFL_lUx-nBtg&usqp=CAU" group-title="Sports",BT Sports 1 FHD
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/52437.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR75_RsxHPl2jXXH3qQA6WjbsTobdOg8_AXzw&usqp=CAU" group-title="Sports",BT Sports 2
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/50771.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest/scale-to-width-down/340?cb=20191227182642" group-title="Sports",BT Sports 3
@@ -1217,6 +1219,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="English Movies Channel",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXmoUHiFhOW1HgpoZZktTvYF8_RMw074VLpUvqeQjQ8v0DcgIU&usqp=CAU" group-title="English Movies Channel",Fox Action Movies
 http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8
