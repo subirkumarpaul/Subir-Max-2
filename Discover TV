@@ -1771,8 +1771,11 @@ http://103.141.66.36/bpk-tv/10334/default/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla Movies",Agnee (2014)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRo-eLK_vKNQflAKKpK3ePfHppi-LzR5K8-aA&usqp=CAU" group-title="Bangla Movies",Agnee (2014)
 http://103.114.39.39/HDD1/Bangla%20Movies/Agnee(2014).mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjT0zjNoqLwOs6341Gh6085Gv-PeuArahSkA&usqp=CAU" group-title="Bangla Movies",Agnee (2014)
+http://103.114.39.39/HDD1/Bangla%20Movies/Agnee%202.mp4
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMw9k9PjHAkEB_gpZhqQKAPm2FuChv0m_7uA&usqp=CAU" group-title="Indian Bangla Movies",Abar Byomkesh
 http://103.114.39.39/HDD2/Bangla%20Movies/Abar%20Byomkesh%202012.mp4
