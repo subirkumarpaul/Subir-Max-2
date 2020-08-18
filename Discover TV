@@ -1771,6 +1771,9 @@ http://103.141.66.36/bpk-tv/10334/default/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla Movies",Agnee (2014)
+http://103.114.39.39/HDD1/Bangla%20Movies/Agnee(2014).mkv
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMw9k9PjHAkEB_gpZhqQKAPm2FuChv0m_7uA&usqp=CAU" group-title="Indian Bangla Movies",Abar Byomkesh
 http://103.114.39.39/HDD2/Bangla%20Movies/Abar%20Byomkesh%202012.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpo1ZGovwvvLoc5InC9KdL0jul5I2uKgob9Q&usqp=CAU" group-title="Indian Bangla Movies",Bidaay Byinkesh
@@ -1779,9 +1782,10 @@ http://103.114.38.38/HDD5/Bangla%20Movies/Bidaay%20Byomkesh.2018.mp4
 http://103.114.38.38/HDD5/Bangla%20Movies/Boss%202%20(2017).mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Khokababu_movie_poster.jpg/220px-Khokababu_movie_poster.jpg" group-title="Indian Bangla Movies",Khokababu
 http://103.114.39.39/HDD4/Bangla%20Movies/Khokababu.2012.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRScdS69OSci9wJvIz8rdPdsSvEHSVGDjfE5Q&usqp=CAU" group-title="Indian Bangla Movies",100%Love
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRScdS69OSci9wJvIz8rdPdsSvEHSVGDjfE5Q&usqp=CAU" group-title="Indian Bangla Movies",100% Love
 http://103.114.39.39/HDD1/Bangla%20Movies/100%25%20Love.mp4
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTNORid0Zv4VxByJn44wDZeiBHUwsd5UJb8w&usqp=CAU" group-title="Indian Bangla Movies",Aami Sudhu Cheyechi Tomay
+http://103.114.39.39/HDD1/Bangla%20Movies/Aami%20Sudhu%20Cheyechi%20Tomay.MP4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRygF61FnCPqIdUTOZY5gR9-1Y-KTgOHu9g2A&usqp=CAU" group-title="Hindi Movies",Street Dancer 3D
 http://103.114.39.39/HDD2/Hindi%20Movies/2020/Street.Dancer.3D.2020.mp4
