@@ -555,6 +555,9 @@ http://103.141.66.36/bpk-tv/10331/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4J7508X75Akli08TDyuE5zbzCW15YqTgKk75DIsU4PzVcQmbC&usqp=CAU" group-title="Hinde Movies",B4U Kadak
 http://103.141.66.36/bpk-tv/10312/default/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hinde Movies",BTV Kadak
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs6iuXnpTVJ_euai2qFEHcIBYkVlCkigqbmE0G_hIkq2gUe25S&usqp=CAU" group-title="Hinde Movies",Enter 10
 http://103.141.66.36/bpk-tv/10137/default/index.m3u8
 
