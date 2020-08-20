@@ -1093,7 +1093,7 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies (India)
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies  HD (India)
-https://watchindia.net:8443/live/53030/45113/2080.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies  HD (India)
 http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/5641.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies  HD (UAE)
