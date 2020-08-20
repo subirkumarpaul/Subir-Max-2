@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/exodiver/IPTV/master/EPG/WebGrab%2B%2B.config_71.xml"
-#EXTM3U x-tvg-url="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG"
+#EXTM3U x-tvg-url=""
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladesi National TV",BTV National
