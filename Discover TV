@@ -356,6 +356,8 @@ https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hinde Entertainment",Star Plus HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hinde Entertainment",Star Plus HD
+https://m3u8-server2.wserials.com/445/5f0df7552c16c/5f0df7552c16c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Hinde Entertainment",Star Plus
 https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 
