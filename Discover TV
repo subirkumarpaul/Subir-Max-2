@@ -544,8 +544,8 @@ http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMobGI-p25pXFty4VhxAvYVhCOHboQGaosmHkCnEaNcIhRf2bD&usqp=CAU" group-title="Hinde Movies",And Xplor HD
 http://indtv.online/zee5/0-9-209.m3u8
 
-#EXTINF:0 group-title="Hinde Movies" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/4x/test_pic1535463753952.jpg" tvg-logo-small="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/4x/test_pic1535463753952.jpg" ,FILMY
-https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1 group-title="Hinde Movies",VENUS TV
+http://45.77.90.56:8080/hls/mystream.m3u8
 
 #EXTINF:0 group-title="Hinde Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzrBU8R-45edD6PGyPEFRphH1bFM-Kvjan05zOA0qDX2vVCv38&usqp=CAU",MBC Bollywood
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
