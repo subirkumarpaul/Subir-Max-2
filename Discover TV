@@ -787,6 +787,8 @@ https://watchindia.net:8443/live/40695/67755/2090.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEw8VFqoxMMmdorJYPti_L3YcpwAXV93jH4KdzzPOm9M33w4Io&usqp=CAU" group-title="Sports",Sky Sports Football
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEw8VFqoxMMmdorJYPti_L3YcpwAXV93jH4KdzzPOm9M33w4Io&usqp=CAU" group-title="Sports",Sky Sports Football
+https://watchindia.net:8443/live/40695/67755/2093.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeetAODNQ5LdAXfBgm02fHoQfoUBnImvuEbnjGHfmGFj-bpOQx&usqp=CAU" group-title="Sports",Sky Sports Mix
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
