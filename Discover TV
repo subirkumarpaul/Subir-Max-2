@@ -788,7 +788,7 @@ http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
 http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports",Willow cricket HD
-http://107.152.234.10:8080/indian/willowcricket/index.m3u8
+https://watchindia.net:8443/live/40695/67755/1067.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports",Willow cricket
 http://43.230.123.21:8080/live/willow-cric.m3u8
 
