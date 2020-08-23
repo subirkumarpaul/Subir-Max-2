@@ -953,34 +953,34 @@ http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22200.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIbZrmDReCJPdaN75DmutPkaLP8N2ipLUg-A&usqp=CAU" group-title="Sports",Super Sports
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22201.m3u8
 
-#EXTINF:0 group-title="Sports", Bein Sports HD 1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/BeIN_SPORTS_HD1_logo.png" group-title="Sports", Bein Sports HD 1
 http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
 
-#EXTINF:0 group-title="Sports", Bein Sports HD 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports", Bein Sports HD 2
 http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
 
-#EXTINF:0 group-title="Sports", Bein Sports HD 3
+#EXTINF:0 tvg-logo="" group-title="Sports", Bein Sports HD 3
 http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
 
-#EXTINF:0 group-title="Sports",Bein Sports HD 4
+#EXTINF:0 tvg-logo="" group-title="Sports",Bein Sports HD 4
 http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
 
-#EXTINF:0 group-title="Sports",Bein Sports HD 5
+#EXTINF:0 tvg-logo="" group-title="Sports",Bein Sports HD 5
 http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
 
-#EXTINF:0 group-title="Sports",Bein Sports HD 6
+#EXTINF:0 tvg-logo="" group-title="Sports",Bein Sports HD 6
 http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
 
-#EXTINF:0 group-title="Sports",Bein Sports HD 7
+#EXTINF:0 tvg-logo="" group-title="Sports",Bein Sports HD 7
 http://fariszah.myq-see.com:8008/live/demo/demo/2261.ts
 
-#EXTINF:0 group-title="Sports",Bein Sports HD 8
+#EXTINF:0 tvg-logo="" group-title="Sports",Bein Sports HD 8
 http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
 
-#EXTINF:0 group-title="Sports",Bein Sports HD 9
+#EXTINF:0 tvg-logo="" group-title="Sports",Bein Sports HD 9
 http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
 
-#EXTINF:0 group-title="Sports",Bein Sports HD 10
+#EXTINF:0 tvg-logo="" group-title="Sports",Bein Sports HD 10
 http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="Sports",SKYNET SPORT HD
