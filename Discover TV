@@ -953,16 +953,35 @@ http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22200.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIbZrmDReCJPdaN75DmutPkaLP8N2ipLUg-A&usqp=CAU" group-title="Sports",Super Sports
 http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/22201.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 1
-https://bit.ly/bsports1
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 2
-https://bit.ly/bsports2
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 3
-https://bit.ly/bsports3
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 4
-https://bit.ly/bsports4
-#EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 5
-https://bit.ly/bpsorts5
+#EXTINF:0 group-title="Sports", Bein Sports HD 1
+http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
+
+#EXTINF:0 group-title="Sports", Bein Sports HD 2
+http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
+
+#EXTINF:0 group-title="Sports", Bein Sports HD 3
+http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 4
+http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 5
+http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 6
+http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 7
+http://fariszah.myq-see.com:8008/live/demo/demo/2261.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 8
+http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 9
+http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
+
+#EXTINF:0 group-title="Sports",Bein Sports HD 10
+http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="Sports",SKYNET SPORT HD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
