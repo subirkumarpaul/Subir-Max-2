@@ -429,6 +429,7 @@ http://103.141.66.36/bpk-tv/10403/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hinde Entertainment",Zee TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 http://103.141.66.36/bpk-tv/10062/default/index.m3u8
+http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hinde Entertainment",Zee TV HD (Canada)
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hinde Entertainment",Zee TV HD (USA)
@@ -511,9 +512,9 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Hinde Movies",Colors Cineplex HD
-http://oqab.life:31000/ropon@25/ropon25/117
+https://stream.amrbd.com/kn13a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Hinde Movies",Colors Cineplex HD
-https://watchindia.net:8443/live/40695/67755/803.ts
+
 
 
 #EXTINF:-1 tvg-logo="http://tv.mymoviebazar.net/images/utv-action.png" group-title="Hinde Movies",UTV Action
@@ -533,9 +534,8 @@ http://103.141.66.36/bpk-tv/10337/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZalVgZJccBSXMBGxag9FLvmL1F1SudYnOQh6NABeST5tRBFoJ&usqp=CAU" group-title="Hinde Movies",Zee Bollywood
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+http://103.141.66.36/bpk-tv/10104/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU" group-title="Hinde Movies",Zee Anmol Cinama
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zanmolcnm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS_d-hP3_s-6LytrD3RMdXY8z55icDuzzz3Ov14Kjha88Ee-FY&usqp=CAU" group-title="Hinde Movies",Zee Anmol Cinama
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 
@@ -544,10 +544,10 @@ http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture HD
 http://103.205.133.19/hls/andpicture.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture HD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andprivehd
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
+http://45.249.187.238:8081/hls/tsl-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMobGI-p25pXFty4VhxAvYVhCOHboQGaosmHkCnEaNcIhRf2bD&usqp=CAU" group-title="Hinde Movies",And Xplor HD
 http://indtv.online/zee5/0-9-209.m3u8
@@ -561,6 +561,7 @@ https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAvEjqn1pmZ0Y0sKbxKTqLoICHC1AVAoZMpu39uaa4HRfHho-a&usqp=CAU" group-title="Hinde Movies",B4U Movies
 http://103.141.66.36/bpk-tv/10331/default/index.m3u8
+http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4J7508X75Akli08TDyuE5zbzCW15YqTgKk75DIsU4PzVcQmbC&usqp=CAU" group-title="Hinde Movies",B4U Kadak
 http://103.141.66.36/bpk-tv/10312/default/index.m3u8
 
@@ -569,6 +570,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs6iuXnpTVJ_euai2qFEHcIBYkVlCkigqbmE0G_hIkq2gUe25S&usqp=CAU" group-title="Hinde Movies",Enter 10
 http://103.141.66.36/bpk-tv/10137/default/index.m3u8
+https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-ZaBbQyfLbHszKJkeVI_1QaHhb9-rE6Wv3krPpqN_Lu6x4pBD&usqp=CAU" group-title="Hinde Movies",Manoranjan TV
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
