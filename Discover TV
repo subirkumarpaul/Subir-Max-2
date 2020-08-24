@@ -574,6 +574,7 @@ https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-ZaBbQyfLbHszKJkeVI_1QaHhb9-rE6Wv3krPpqN_Lu6x4pBD&usqp=CAU" group-title="Hinde Movies",Manoranjan TV
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDJvOxGYN0HlaB0e402NrxtVqZvFocksraFTjT8j7z-uDDIO1t&usqp=CAU" group-title="Hinde Movies",Monoranjan Grand
 http://103.141.66.36/bpk-tv/10103/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtQzwy7mbf4oohpyLiaxyFSyjqzKKmuxknccXHkokhKfUeOMc_&usqp=CAU" group-title="Hinde Movies",Monoranjan Movies
@@ -586,6 +587,7 @@ http://103.141.66.36/bpk-tv/10191/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3Aq3_P0CBcD4KKC9OHbrUrT3gKp-7J6TQ_UfRLAluaFU_N9Fc&usqp=CAU" group-title="Hinde Movies",Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
+https://streamitv.multitvsolution.in/idvo/wowcinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-4r-ZuNu9rzP0P95YJ_-glDatM1VqLZiGpgpBqA9dWWZmIb1&usqp=CAU" group-title="Hinde Movies",Joo Music
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
@@ -599,10 +601,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hinde Movies",Maha Movie
 https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
 
-#EXTINF:0 tvg-logo="https://j2apps.s.llnwi.net/is1/media/images/6523.BOXCinema.in/1x1/english movie_pic1561284881697.jpg" group-title="Hinde Movies",BOX CINEMA
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 
-l
 #EXTINF:-1 tvg-logo="" group-title="Hinde Movies",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
@@ -621,7 +620,7 @@ http://23.186.192.55:8080/live/primeplus/index.m3u8
 http://indtv.online/jiotv/jojotv/EROSNOW_Hindi_Premium.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hinde Movies",Mini Plax
-http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18173.m3u8
+https://streamitv.multitvsolution.in/idvo/multiplexcinema.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
