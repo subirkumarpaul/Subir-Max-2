@@ -48,6 +48,7 @@ http://103.205.133.44:1935/live/Gtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesi Entertainment",Maasranga TV
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+http://103.141.66.36/bpk-tv/10154/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladesi Entertainment",Channel 9 HD
 https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
