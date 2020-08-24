@@ -434,6 +434,7 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors HD
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://103.107.160.20:8081/amrbd/colorshd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 
