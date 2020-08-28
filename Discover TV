@@ -1747,6 +1747,8 @@ http://103.114.39.39/HDD2/Hindi%20Movies/2020/Malang.2020.mp4
 http://103.114.39.39/HDD2/Hindi%20Movies/2020/Jawaani.Jaaneman.2020.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUc2TS3Ttqdb8T1wfwFjwfHa5BAUVerI2z_w&usqp=CAU" group-title="English Movies",Extraction
 http://103.114.39.39/HDD2/English%20Movies/2020/Extraction.2020.mp4
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Darber
+http://cdn1.discoveryftp.net/Movies/Dubbed/Tamil/2020/Darbar/DARBAR%20(2020)%20HDRip%20-%201080p%20-%20Org%20[Hindi%20+%20Tel%20+%20Tam%20+%20Mal].mkv
 
 
 #EXTINF:-1 group-title="Indian",2
