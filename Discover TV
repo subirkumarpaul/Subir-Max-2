@@ -1754,7 +1754,8 @@ http://103.114.39.39/HDD2/English%20Movies/2020/Extraction.2020.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Darber
 http://cdn1.discoveryftp.net/Movies/Dubbed/Tamil/2020/Darbar/DARBAR%20(2020)%20HDRip%20-%201080p%20-%20Org%20[Hindi%20+%20Tel%20+%20Tam%20+%20Mal].mkv
 
-3
+#EXTINF:-1 group-title="Indian",1
+https://raw.githubusercontent.com/subirkumarpaul/subir/master/hbo%20hits
 #EXTINF:-1 group-title="Indian",2
 http://43.251.86.2:8080/hls/channel_1.m3u8
 #EXTINF:-1 group-title="Indian",3
