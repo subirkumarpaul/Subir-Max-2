@@ -443,11 +443,11 @@ https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hinde Entertainment",Star Plus HD
-https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hinde Entertainment",Star Plus HD
-http://103.141.66.36/bpk-tv/10401/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Hinde Entertainment",Star Plus
-https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
@@ -466,7 +466,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hinde Entertainment",Zee TV HD
 http://103.141.66.36/bpk-tv/10403/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hinde Entertainment",Zee TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 http://103.141.66.36/bpk-tv/10062/default/index.m3u8
 http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hinde Entertainment",Zee TV HD (Canada)
@@ -479,24 +479,24 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors HD
-https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://103.107.160.20:8081/amrbd/colorshd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
-https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU" group-title="Hinde Entertainment",And TV HD
-http://103.141.66.36/bpk-tv/10182/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="Hinde Entertainment",And TV
 http://103.141.66.36/bpk-tv/10028/default/index.m3u8
 http://103.205.133.19/hls/andtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Hinde Entertainment",Star Bharat (Asia)
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="Hinde Entertainment",Star Bharat (India)
 http://103.205.133.19/hls/starbharat.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUEEboKTR4xz2p8TlDpw4z2kxBJ9b-l0e-Rc-PquMFO6JWt7c3&usqp=CAU" group-title="Hinde Entertainment",Colors Rishtey
-https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYlUExF-1EVMFqDctpo6MAmQFl0N_QAD3gogxkxaYSeC99_xaJ&usqp=CAU" group-title="Hinde Entertainment",Big Magic
 http://103.141.66.36/bpk-tv/10280/default/index.m3u8
@@ -509,33 +509,38 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 http://telekomtv-ro.akamaized.net:80/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold HD
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-http://103.141.66.36/bpk-tv/10476/default/index.m3u8
-http://103.214.202.218:8081/live/stargold/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hinde Movies",Star Gold 2
-https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+https://robi.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Hinde Movies",Star Gold Select HD
-http://87.117.234.107:1935//live//STARGOLDSELECTFHD//chunklist.m3u8
+http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/75.m3u8
+#EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Hinde Movies",Star Gold Select HD
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hinde Movies",Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hinde Movies",Sony Max HD
+http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/77.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
 http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
 http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/6525
+http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/37.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU" group-title="Hinde Movies",Sony WAH
 http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU" group-title="Hinde Movies",Sony WAH
+http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/47.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Hinde Movies",Zee Cinema HD
 http://103.141.66.36/bpk-tv/10430/default/index.m3u8
