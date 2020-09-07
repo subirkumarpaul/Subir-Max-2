@@ -115,9 +115,9 @@ http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 http://robi.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladesi Entertainment",Nagorik TV
-http://robi.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+http://robi.iptv.digijadoo.net:80/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangladesi Entertainment",Nagorik TV
-
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="Bangladesi Entertainment",Mohona TV
 http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/50.m3u8
