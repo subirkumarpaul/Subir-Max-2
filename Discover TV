@@ -517,7 +517,7 @@ http://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 http://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hinde Movies",Star Gold 2
-http://robi.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+http://robi.iptv.digijadoo.net:80/live/star_gold_2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Hinde Movies",Star Gold Select HD
 http://iptvthunder.thunderbd.com:80/live/roarzone/roarzone/75.m3u8
