@@ -18,8 +18,9 @@ https://robi.iptv.digijadoo.net:443/live/sangsad_tv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
+https://raw.githubusercontent.com/subirkumarpaul/subir/master/How%20to%20Channel%20%20Created.m3u8
 https://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
+# tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxBP6wvL_QiwtjbRIhVmtkOyjAIYg-ynX1rQ&usqp=CAU" group-title="Bangladesi Entertainment",ATN Bangla UK
