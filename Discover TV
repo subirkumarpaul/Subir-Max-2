@@ -1814,6 +1814,8 @@ http://103.114.39.39/HDD1/Bangla%20Movies/Bojhena%20Se%20Bojhena%20(2012).mkv
 http://103.114.39.39/HDD1/Hindi%20Movies/3%20Idiots%202009.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRygF61FnCPqIdUTOZY5gR9-1Y-KTgOHu9g2A&usqp=CAU" group-title="Hindi Movies",Street Dancer 3D
 http://103.114.39.39/HDD2/Hindi%20Movies/2020/Street.Dancer.3D.2020.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRygF61FnCPqIdUTOZY5gR9-1Y-KTgOHu9g2A&usqp=CAU" group-title="Hindi Movies",Street Dancer 3D
+http://162.12.215.254:80/Data/Movies/Hindi/2020/Street%20Dancer%203D%20%282020%29%20Hindi%20720p%20HDRip%201.2GB/Street%20Dancer%203D%20%282020%29%20Hindi%20720p%20HDRip%201.2GB.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBspaIFf0W_BDEIhpvDg2sGp63-ad_qvdgPA&usqp=CAU" group-title="Hindi Movies",Malang
 http://103.114.39.39/HDD2/Hindi%20Movies/2020/Malang.2020.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMV2l8TFQaHyVlyeDz94iTBQk7hEAT2vGxhQ&usqp=CAU" group-title="Hindi Movies",Jawaani Jaaneman
