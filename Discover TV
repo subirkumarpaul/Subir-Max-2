@@ -1378,7 +1378,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="English Music",VH1 HD
-
+http://content-aaps1.uplynk.com:80/channel/36953f5b6546464590d2fcd954bc89cf/d.m3u8?pbs=18acba42f50647abb77b5564ed67a254
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjb1UBTpwNjnYsVjRcArMtLEAaWuTsGOTMQA&usqp=CAU" group-title="English Music",Music Box Russra
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/89.ts
