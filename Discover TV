@@ -464,6 +464,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
 http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
+http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hinde Entertainment",Sony SAB HD
@@ -475,6 +476,7 @@ http://45.249.187.238:8081/hls/tsl-4.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hinde Entertainment",Zee TV HD
+http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hinde Entertainment",Zee TV
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/apacsea/index.m3u8
@@ -546,6 +548,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hinde Movies",Sony Max HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
+http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
@@ -561,6 +564,7 @@ http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Hinde Movies",Zee Cinema HD
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Hinde Movies",Zee Cinema
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemausa/index.m3u8
@@ -594,6 +598,7 @@ http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112883
 http://webo.asia:80/live/UjVJXvV700/8yLPuCn700/20839.ts
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png" group-title="Hinde Movies",Zee Action
+http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/action/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZalVgZJccBSXMBGxag9FLvmL1F1SudYnOQh6NABeST5tRBFoJ&usqp=CAU" group-title="Hinde Movies",Zee Bollywood
@@ -611,6 +616,7 @@ http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture HD
 http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture HD
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hinde Movies",And Picture
 http://45.249.187.238:8081/hls/tsl-2.m3u8
@@ -729,6 +735,7 @@ http://otv.ftpbd.net/streams/114/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
 http://103.205.133.19/hls/ten1.m3u8
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
@@ -739,7 +746,7 @@ http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Sports",Sony Ten 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Sports",Sony Ten 2 HD
-
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Sports",Sony Ten 2
 http://10.100.100.134/live/skyfeed1002/index.m3u8
 
@@ -748,10 +755,10 @@ http://103.205.133.14/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3 HD
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3 HD
-
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
 #EXTINF:-1,Sony ESPN
-
+http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
 http://103.107.160.20:8081/amrbd/sonysix/chunks.m3u8
@@ -1181,13 +1188,14 @@ http://103.205.133.50/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies Channel",Sony Pix HD (Asia) 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies Channel",Sony Pix HD (Asia) 
-
+http://45.249.187.238:8081/hls/new13.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC91iczMaHbur_QX-SQKCTccfjLmS7KX3V0JV37z8SH0maiGGd&usqp=CAU" group-title="English Movies Channel",MGM Sci-fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcnXIzcH6v2Ku6hDDR8PtE8IAyRMOFeAgiOSpLmbCkLwSWLEV_&usqp=CAU" group-title="English Movies Channel",And Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcnXIzcH6v2Ku6hDDR8PtE8IAyRMOFeAgiOSpLmbCkLwSWLEV_&usqp=CAU" group-title="English Movies Channel",And Flix HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
@@ -1195,11 +1203,13 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixh
 http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="English Movies Channel",And Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="English Movies Channel",And Prive HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU" group-title="English Movies Channel",Zee Café HD
+http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU" group-title="English Movies Channel",Zee Café HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
@@ -1228,20 +1238,22 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_UwZ1cFhDDTYA5q1c3PmQ1-oNQ8cCrnOtmn4vYp1sw6TksQ43&usqp=CAU" group-title="English Movies Channel",MNX HD
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_UwZ1cFhDDTYA5q1c3PmQ1-oNQ8cCrnOtmn4vYp1sw6TksQ43&usqp=CAU" group-title="English Movies Channel",MNX
-
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU" group-title="English Movies Channel",Movies Now HD
-http://45.249.187.238:8081/hls/new13.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU" group-title="English Movies Channel",Movies Now HD
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU" group-title="English Movies Channel",Movies Now
-http://robi.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies Channel",MN+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU" group-title="English Movies Channel",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU" group-title="English Movies Channel",Romedy Now
+http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png" group-title="English Movies Channel",Colors Infinity
 http://robi.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
@@ -1335,7 +1347,7 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" group-title="Hinde Music",Zoom
-http://robi.iptv.digijadoo.net/live/zoom/chunks.m3u8
+http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU" group-title="Hinde Music",Zing
 http://robi.iptv.digijadoo.net/live/zing/chunks.m3u8
