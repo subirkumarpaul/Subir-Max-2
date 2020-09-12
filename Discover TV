@@ -799,7 +799,7 @@ http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU" group-title="Sports",Ten Sports PK
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU" group-title="Sports",Ten Sports PK
-http://witv.live:8880/live/52620/61967/1068.ts
+http://aklivetv.com:8080/tensports/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-U5Rw_NMJ2pA/XquN010dQnI/AAAAAAAABS8/kfvJYGOck04D_4byya7EKb_VspaHDdVhgCNcBGAsYHQ/s640/Picture3.png" group-title="Sports",PK Sports
