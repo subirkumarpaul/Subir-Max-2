@@ -651,7 +651,7 @@ https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAvEjqn1pmZ0Y0sKbxKTqLoICHC1AVAoZMpu39uaa4HRfHho-a&usqp=CAU" group-title="Hinde Movies",B4U Movies
-http://103.205.133.19/hls/b4umovies.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4J7508X75Akli08TDyuE5zbzCW15YqTgKk75DIsU4PzVcQmbC&usqp=CAU" group-title="Hinde Movies",B4U Kadak
 
 
@@ -659,10 +659,10 @@ http://103.205.133.19/hls/b4umovies.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs6iuXnpTVJ_euai2qFEHcIBYkVlCkigqbmE0G_hIkq2gUe25S&usqp=CAU" group-title="Hinde Movies",Enter 10
-http://robi.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/37.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-ZaBbQyfLbHszKJkeVI_1QaHhb9-rE6Wv3krPpqN_Lu6x4pBD&usqp=CAU" group-title="Hinde Movies",Manoranjan TV
-http://robi.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-ZaBbQyfLbHszKJkeVI_1QaHhb9-rE6Wv3krPpqN_Lu6x4pBD&usqp=CAU" group-title="Hinde Movies",Manoranjan TV
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDJvOxGYN0HlaB0e402NrxtVqZvFocksraFTjT8j7z-uDDIO1t&usqp=CAU" group-title="Hinde Movies",Monoranjan Grand
