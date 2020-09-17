@@ -1278,7 +1278,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXmoUHiFhOW1HgpoZZktTvYF8_RMw074VLpUvqeQjQ8v0DcgIU&usqp=CAU" group-title="English Movies Channel",Fox Action Movies
 http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXmoUHiFhOW1HgpoZZktTvYF8_RMw074VLpUvqeQjQ8v0DcgIU&usqp=CAU" group-title="English Movies Channel",Fox Action Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+http://live4.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqyxi4-icWuMrd2Jy_iVK_Fg3mfGIhHnh719KZiCDDxk1xrJF4&usqp=CAU" group-title="English Movies Channel",Fox Crime
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
