@@ -567,7 +567,7 @@ http://216.144.250.174:80/Star_Gold_HD/tracks-v1a1/mono.m3u8
 http://45.249.187.238:8081/hls/tsl-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Hinde Movies",Star Gold Select HD
-
+http://195.181.169.129/star_gold_Select-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Hinde Movies",Star Gold Select HD
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 
