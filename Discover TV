@@ -521,7 +521,7 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
-http://103.107.160.20:8081/amrbd/colorshd/chunks.m3u8
+http://45.249.187.238:8081/hls/hdmi2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
 http://103.205.133.44:1935/live/colors/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
