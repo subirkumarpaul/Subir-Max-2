@@ -1850,28 +1850,28 @@ http://175.41.46.15/16.m3u8
 
 
 
-#EXTINF: -1 group-title="RADIO",Radio Foorti (88.0)
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUuEO3qHGyuKz2p-LG7ysM6XvtyVp1cVytog&usqp=CAU" group-title="RADIO",Radio Foorti (88.0)
 http://119.148.23.88:1021
 
-#EXTINF: -1 group-title="RADIO",ABC Radio(89.2)
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOkVJ9NCYYtLuPtENUUAWBpLV0hHmWIGzJsg&usqp=CAU" group-title="RADIO",ABC Radio(89.2)
 http://node-04.zeno.fm/h7n8ug96eeruv
 
-#EXTINF: -1 group-title="RADIO",Radio Today(89.6)
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwsPsZ8ydAQQ_Qq5CYuqdlhzCBze53_7NzCg&usqp=CAU" group-title="RADIO",Radio Today(89.6)
 http://node-03.zeno.fm/0zha3rfq02quv
 
-#EXTINF: -1 group-title="RADIO",Dhaka FM (90.4)
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTq5JQDIU9D_19WuLyxoUxbukiZOWXUQw9tuA&usqp=CAU" group-title="RADIO",Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3
 
-#EXTINF: -1 group-title="RADIO",Dhoni FM (91.2)
+#EXTINF: -1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s253281g.png" group-title="RADIO",Dhoni FM (91.2)
 http://182.160.110.180:1020/;stream.mp3
 
-#EXTINF: -1 group-title="RADIO",Bangladesh Betar Dhaka
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUmJx9jACLmDe3lkRYxo4AZcuxSuD6rIqbvw&usqp=CAU" group-title="RADIO",Bangladesh Betar Dhaka
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
 
-#EXTINF: -1 group-title="RADIO",Bangladesh Betar Chattogram
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUmJx9jACLmDe3lkRYxo4AZcuxSuD6rIqbvw&usqp=CAU" group-title="RADIO",Bangladesh Betar Chattogram
 http://as2.digitalsynapsebd.com:9236/;stream.mp3
 
-#EXTINF: -1 group-title="RADIO",Bangladesh Betar Khulna 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUmJx9jACLmDe3lkRYxo4AZcuxSuD6rIqbvw&usqp=CAU"  group-title="RADIO",Bangladesh Betar Khulna 
 http://as2.digitalsynapsebd.com:9252/;stream.mp3
 
 
