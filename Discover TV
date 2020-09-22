@@ -956,6 +956,8 @@ http://51.158.184.6:25461/live/0YeiJ2arqP/nuDvIG0bE8/74421.m3u8
 
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="Sports",Super Sports Cricket
 http://iptv-line.com:7899/Raybossrojas142/O5FJZlHvnW/111833
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="Sports",Super Sports Cricket
+http://iptv-line.com:7899/Raybossrojas142/O5FJZlHvnW/55657
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU" group-title="Sports",Bein Sports 1
 http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
