@@ -1556,7 +1556,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/164.m3u8
 http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="English News",CNN International
-
+http://203.162.235.41:16918/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="English News",Al Jazeera
 http://iptv.kitv.live:1935/live/Shari/MTV-P/58.m3u8
