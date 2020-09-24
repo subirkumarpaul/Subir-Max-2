@@ -598,6 +598,7 @@ http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold HD
 http://iptv-line.com:7899/Raybossrojas142/O5FJZlHvnW/54031
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold
+http://live.banglatv.xyz:8880/live/bdixtv/fbgroup/30.ts
 http://216.144.250.174:80/Star_Gold_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hinde Movies",Star Gold 2
