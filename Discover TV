@@ -1826,6 +1826,8 @@ http://103.114.39.39/HDD1/Hindi%20Movies/3%20Idiots%202009.mp4
 http://103.114.39.39/HDD2/Hindi%20Movies/2020/Street.Dancer.3D.2020.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiVVSQ8WG6qnR3lVQMpOrqsPel0Taf8G49sA&usqp=CAU" group-title="Hindi Movies",Jai Mummy Di
 http://cdn1.discoveryftp.net/Movies/Hindi/2020/Jai%20Mummy%20Di/Jai%20Mummy%20Di%20%282020%29%20Hindi%20Proper%20WEB-DL%20-%201080p%20-%20%28DD%2B5.1%20-%20640Kbps%29%20-%202.3GB%20-%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT43uoYdiAjeYz4Te0n9lVHUangd5K6dOwPmw&usqp=CAU" group-title="Hindi Movies",Love Aaj Kal
+http://cdn1.discoveryftp.net/Movies/Hindi/2020/Love%20Aaj%20Kal/Love%20Aaj%20Kal%202020%20Hindi%201080P%20NF%20WEBRiP%20x265%20DD%205.1%20HEVC%20ESUB%20%5Bshadow%5D.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRygF61FnCPqIdUTOZY5gR9-1Y-KTgOHu9g2A&usqp=CAU" group-title="Hindi Movies",Street Dancer 3D
 http://162.12.215.254:80/Data/Movies/Hindi/2020/Street%20Dancer%203D%20%282020%29%20Hindi%20720p%20HDRip%201.2GB/Street%20Dancer%203D%20%282020%29%20Hindi%20720p%20HDRip%201.2GB.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBspaIFf0W_BDEIhpvDg2sGp63-ad_qvdgPA&usqp=CAU" group-title="Hindi Movies",Malang
@@ -1834,6 +1836,8 @@ http://103.114.39.39/HDD2/Hindi%20Movies/2020/Malang.2020.mp4
 http://103.114.39.39/HDD2/Hindi%20Movies/2020/Jawaani.Jaaneman.2020.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmh6olLEOUh8PiCtf12PtXHVw898nYIEfoXA&usqp=CAU" group-title="Hindi Movies",Baahhi 3
 http://45.249.187.234/Data/Movies/Bollywood/2020/Baaghi%203%20(2020)/Baaghi.3.2020.1080p.DSNP+.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVrceGLaVHQq3dfuLhEg8WfXfeRGmopHOMPw&usqp=CAU" group-title="Hindi Movies",Dil Bechara
+http://cdn1.discoveryftp.net/Movies/Hindi/2020/Dil%20Bechara/Dil.Bechara.2020.1080p.WEBRip.x264.AAC5.1.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUc2TS3Ttqdb8T1wfwFjwfHa5BAUVerI2z_w&usqp=CAU" group-title="English Movies",Extraction
 http://103.114.39.39/HDD2/English%20Movies/2020/Extraction.2020.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Darber
