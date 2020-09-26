@@ -1181,6 +1181,8 @@ https://load.airtel.tv/ndtvgoodtimes/smil:common.smil/chunklist.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",Travel XP HD (Hindi)
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Travel Channel",Travel XP HD (Hindi)
+http://198.255.87.59:8080/INDIA_ENGLISH/TRAVEL_XP_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaJqXbWvb4zhffu44_Pjij_hzeut7814wG_r1h7-bYBfA15af&usqp=CAU" group-title="Travel Channel",Travel Channel
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
