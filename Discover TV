@@ -1683,7 +1683,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 http://202.163.117.6:9981/stream/channelid/1357890196
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="Kids Channel",Pogo
-http://45.120.188.207:80/0.ts
+http://185.246.210.54:2200/R-EX/HINDI_POGO_KIDS-in/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="Kids Channel",NICK HD
 
