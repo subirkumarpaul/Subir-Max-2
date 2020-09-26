@@ -1258,6 +1258,7 @@ http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies (India)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/43.m3u8
 
+,
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English Movies Channel",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English Movies Channel",Star Movies Select HD
@@ -1509,6 +1510,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/82.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="English Music",VH1 HD
 http://content-aaps1.uplynk.com:80/channel/36953f5b6546464590d2fcd954bc89cf/d.m3u8?pbs=18acba42f50647abb77b5564ed67a254
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8wucJ2MF8E9YBasXuyMJR1sjSdPcsKpQygw&usqp=CAU" group-title="English Music",THT Music
+http://anytv.live:8080/live/saiful/saiful/376.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjb1UBTpwNjnYsVjRcArMtLEAaWuTsGOTMQA&usqp=CAU" group-title="English Music",Music Box Russra
 http://iptv.kitv.live:1935/live/Shari/MTV-P/89.m3u8
