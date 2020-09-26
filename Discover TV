@@ -1320,7 +1320,7 @@ http://198.255.87.59:8080/INDIA_ENGLISH/HBO_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English Movies Channel",HBO
 http://otv.ftpbd.net:80/streams/111/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English Movies Channel",HBO
-http://136.243.177.164/HBO/playlist.m3u8
+http://anytv.live:8080/live/saiful/saiful/382.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English Movies Channel",HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="English Movies Channel",HBO
@@ -1701,7 +1701,7 @@ http://45.249.187.238:8081/hls/live0.m3u8
 http://185.59.222.171:2200/R-EX/HINDI_DISNEY_SD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZomY2Q955WLKZMSTCfRxwxTWZBEqTJSb_L38rmmTovuw3u-s3&usqp=CAU" group-title="Kids Channel",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+http://anytv.live:8080/live/saiful/saiful/368.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Disney_XD_(Southeast_Asian_TV_channel)/Disney_XD_(Southeast_Asian_TV_channel)-Logo.wine.png" group-title="Kids Channel",Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
