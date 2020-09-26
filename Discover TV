@@ -168,6 +168,10 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangladesi Entertainment",MY TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/O6EkkWUTkKnwbE2dNBDXUkAZnaZhMkmSlPqg8WrvcY9syshAXFoKSFvjvva8bOClrc0TObv_OEVZzZ4q91p1rwvWmcmTj4YRxkrCFIKU2Zf-aGdJGPtvDOQ7hw" group-title=""Bangladesi Entertainment",Ktv bangla HD [BD]
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="IPTV Entertainment",Cumilla 24 TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/live-orgin/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="IPTV Entertainment",Alif TV
