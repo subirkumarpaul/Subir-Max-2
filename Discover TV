@@ -641,6 +641,8 @@ http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
+http://anytv.live:8080/live/saiful/saiful/342.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
 http://otv.ftpbd.net:80/streams/109/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
