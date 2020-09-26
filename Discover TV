@@ -1256,6 +1256,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies Channel",Sony Pix HD (Asia) 
 http://iptv-line.com:7899/Raybossrojas142/O5FJZlHvnW/54057
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies Channel",Sony Pix HD (Asia) 
+http://bdvisioniptv.ddns.net:25461/live/rahman41/0302/149.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies Channel",Sony Pix HD (Asia) 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/39.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English Movies Channel",Sony Pix HD (Asia) 
 http://45.249.187.238:8081/hls/new21.m3u8
