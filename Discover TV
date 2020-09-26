@@ -1260,7 +1260,8 @@ http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies (India)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/43.m3u8
 
-,
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English Movies Channel",Star Movies Select HD
+http://anytv.live:8080/live/saiful/saiful/355.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English Movies Channel",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English Movies Channel",Star Movies Select HD
@@ -1401,6 +1402,8 @@ http://live4.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqyxi4-icWuMrd2Jy_iVK_Fg3mfGIhHnh719KZiCDDxk1xrJF4&usqp=CAU" group-title="English Movies Channel",Fox Crime
 https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="English Movies Channel",Warner TV
+http://anytv.live:8080/live/saiful/saiful/356.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="English Movies Channel",Warner TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 
