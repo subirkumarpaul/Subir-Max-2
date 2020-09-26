@@ -1669,7 +1669,7 @@ http://live-ng-01.more.tv/hls/Cartoon_Network_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network (Hindi)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network (India)
-http://185.246.210.54:2200/R-EX/KIDS_CARTOON_NETWORK-in/tracks-v1a1/mono.m3u8
+http://185.246.210.54:2200/R-EX/KIDS_CARTOON_NETWORK-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network (India)
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
