@@ -64,7 +64,7 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://103.205.133.44:1935/live/channeli/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangladesi Entertainment",Ekushey TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/15.m3u8
+http://bdvisioniptv.ddns.net:25461/live/rahman41/0302/113.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesi Entertainment",NTV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8
