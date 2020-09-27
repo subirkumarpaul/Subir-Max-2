@@ -1761,6 +1761,9 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids Channel",BBC CBEEBIES
 http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Kids Channel",Boomerang
+http://bdvisioniptv.ddns.net:25461/live/rahman41/0302/635.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJLbp15mPItJU-dAjbA-6H5oFuabf95FWfXSFGDUeOrEFQwH_w&usqp=CAU" group-title="Kids Channel", MBC 3 HD
 https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
 
