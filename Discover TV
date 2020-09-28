@@ -653,13 +653,14 @@ http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
 http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
-http://185.246.210.54:2200/NL/sonymax-uk/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
 http://anytv.live:8080/live/saiful/saiful/342.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max
 http://otv.ftpbd.net:80/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="Hinde Movies",Sony Max UK
+http://185.246.210.54:2200/NL/sonymax-uk/index.m3u8?token=
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
 http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
