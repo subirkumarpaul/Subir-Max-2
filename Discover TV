@@ -588,8 +588,8 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 http://198.255.87.59:8080/INDIA_HINDI/COLORS_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
 http://185.246.210.50:2200/EX/colorsuk-in/tracks-v1a1/mono.m3u8?token=
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
+http://45.249.187.238:8081/hls/live2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
 http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
 
