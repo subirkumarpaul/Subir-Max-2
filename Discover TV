@@ -633,7 +633,7 @@ http://bdvisioniptv.ddns.net:25461/live/rahman41/0302/161.m3u8
 http://216.144.250.174:80/Star_Gold_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hinde Movies",Star Gold 2
-http://45.249.187.238:8081/hls/tsl-1.m3u8
+http://45.249.187.238:8081/hls/tsl-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Hinde Movies",Star Gold Select HD
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a1/mono.m3u8
