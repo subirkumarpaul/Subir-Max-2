@@ -1538,7 +1538,7 @@ http://iptv.mirrorace.net/?channelid=753
 http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ12NxjnWJ7NAdO9J7860Nx7sjm7eevkbwm6vNf1LFWsX9f1itd&usqp=CAU" group-title="Hinde Music",UTV Bindass 
-http://45.120.188.65:8080/0.ts
+http://185.59.222.234:2200/R-EX/HINDI_BINDAS_MOVIES-in/index.m3u8?token=
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Hinde Music",8X Music
