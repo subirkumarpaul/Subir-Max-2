@@ -67,7 +67,7 @@ http://103.205.133.44:1935/live/channeli/playlist.m3u8
 http://bdvisioniptv.ddns.net:25461/live/rahman41/0302/113.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesi Entertainment",NTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/9.m3u8
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png" group-title="Bangladesi Entertainment.",NTV
 http://103.205.133.50/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="Bangladesi Entertainment",NTV(UK)
