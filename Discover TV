@@ -1201,11 +1201,11 @@ http://198.255.87.59:8080/INDIA_HINDI/NAT_GEO_HD/tracks-v1a1/mono.m3u8?token=tes
 
 
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
-http://iptv.kitv.live:1935/live/Shari/MTV-P/60.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGSDN/60.ts
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
 http://198.255.87.59:8080/INDIA_HINDI/NAT_GEO_WILD_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
-http://103.47.132.165:80/PLTV/88888888/224/3221227157/1.m3u8
+http://bdvisioniptv.ddns.net:25461/live/rahman41/0302/139.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Information Channel",Nat Geo People
 
