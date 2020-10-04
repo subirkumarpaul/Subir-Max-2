@@ -13,7 +13,9 @@ http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
 http://103.102.27.172:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
-http://103.102.136.106:8080/cmcltv/gtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
@@ -104,7 +106,7 @@ http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladesi Entertainment",Gazi TV
 https://edge.apigate.pro/channel1/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladesi Entertainment",Gazi TV
-
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladesi Entertainment",Gazi TV
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
