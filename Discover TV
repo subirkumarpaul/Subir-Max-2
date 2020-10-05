@@ -552,7 +552,7 @@ http://anytv.live:8080/live/saiful/saiful/346.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/26.m3u8
+http://bdvisioniptv.ddns.net:25461/live/rahman41/0302/867.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
 http://anytv.live:8080/live/saiful/saiful/321.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
