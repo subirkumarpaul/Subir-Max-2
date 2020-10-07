@@ -533,7 +533,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla News",ABP Ananda
 https://stream.amrbd.com/abp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrG1JJy-7SAQKHZSXzgKhu6UI-x_wtWfsrixkvu6jSwKzwge14&usqp=CAU" group-title="Indian Bangla News",Kolkata TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/59.m3u8
+https://load.airtel.tv/kolkatatv/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvsegs_S0AcgLlcHXcV8BpSykpFlcsGcdADA&usqp=CAU" group-title="Indian Bangla News",R Plus News
 http://103.141.66.36/bpk-tv/10078/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Bangla News",News Time Bangla
