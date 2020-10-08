@@ -1557,7 +1557,9 @@ https://live.hungama.com/linear/kadak-hits/chunklist_b4128000.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png" group-title="MUSIC (Free)",Pop HUNGAMA
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 
- 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Aaho.jpg" group-title="MUSIC (Free)",Aaho! Music
+https://v.aaho.tv/live/aahomusic.m3u8
+
 #EXTINF:0 tvg-id="POP HUNGAMA Hits" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="music",POP HUNGAMA Hits https://live.hungama.com/linear/pop-pataka/chunklist_b2128000.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQpiCiXj6wk4vrliOLd0y_GlrmwbUzmbyPykA5P_Vr1GUP36x&usqp=CAU" group-title="Hinde Music",Kadak Hits
