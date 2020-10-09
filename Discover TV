@@ -1114,7 +1114,7 @@ http://bdvisioniptv.ddns.net:25461/live/rahman41/0302/199.m3u8
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="Sports",Bein Sports Xtra (480p)
-https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="Sports",Bein Sports Xtra (1080p)
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 
