@@ -1856,7 +1856,7 @@ http://anytv.live:8080/live/saiful/saiful/372.m3u8
 http://45.249.187.238:8081/hls/new18.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="Kids Channel",NICK HD
-
+https://ott.bingebd.com:443/live/ngrp:nick_hd_all/chunklist_b8432648.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (India)
 https://ott.bingebd.com:443/live/ngrp:nickelodeon_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (India)
