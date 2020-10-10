@@ -514,7 +514,7 @@ http://anytv.live:8080/live/saiful/saiful/373.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="Indian Bangla Music",Sangeet Bangla
 http://45.249.187.238:8081/hls/new7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="Indian Bangla Music",Sangeet Bangla
-
+https://ott.bingebd.com:443/live/ngrp:sangeet_bangla_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="Indian Bangla Music",Sangeet Bangla
 http://103.205.133.50/hls/sangeetbangla.m3u8
 
