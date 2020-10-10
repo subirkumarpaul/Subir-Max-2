@@ -1870,6 +1870,8 @@ http://anytv.live:8080/live/saiful/saiful/332.m3u8
 https://streamitv.multitvsolution.in/idvo/discoverykidseng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids Channel",Discovery Kids (Hindi)
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids Channel",Discovery Kids (Hindi)
+https://ott.bingebd.com:443/live/ngrp:discovery_kids_all/chunklist_b1228000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids Channel",BBC CBEEBIES
 
