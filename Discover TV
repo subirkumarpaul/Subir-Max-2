@@ -447,7 +447,7 @@ https://load.airtel.tv/aakashaath/smil:common.smil/chunklist.m3u8
 https://ott.bingebd.com:443/live/ngrp:dillagi_all/chunklist_b1228000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Indian Bangla Entertainment ",Ruposhi Bangla
-
+https://ott.bingebd.com:443/live/ngrp:ruposhi_bangla_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Indian Bangla Entertainment ",Ruposhi Bangla
 http://103.205.133.50/hls/ruposhibangla.m3u8
 
