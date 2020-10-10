@@ -1851,7 +1851,7 @@ http://anytv.live:8080/live/saiful/saiful/368.m3u8
 http://anytv.live:8080/live/saiful/saiful/372.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="Kids Channel",Pogo
-
+https://ott.bingebd.com:443/live/ngrp:pogo_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="Kids Channel",Pogo
 http://45.249.187.238:8081/hls/new18.m3u8
 
