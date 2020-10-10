@@ -378,7 +378,7 @@ http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangladesi Music",Gaan Bangla
 http://103.205.133.50/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangladesi Music",Gaan Bangla
-http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Bangladesi Music",RTV Music
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
@@ -392,9 +392,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha HD
 http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha
 http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha
 http://103.205.133.50/hls/chsj.m3u8
@@ -404,15 +404,15 @@ http://anytv.live:8080/live/saiful/saiful/381.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla HD
-http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla HD
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla HD
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla
 http://103.205.133.50/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla
-
+http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla
 
 
