@@ -742,7 +742,7 @@ http://iptv-line.com:7899/Raybossrojas142/O5FJZlHvnW/54037
 #EXTINF:-1 tvg-logo="http://tv.mymoviebazar.net/images/utv-action.png" group-title="Hinde Movies",UTV Action
 http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF:-1 tvg-logo="http://tv.mymoviebazar.net/images/utv-action.png" group-title="Hinde Movies",UTV Action
-
+http://otv.ftpbd.net:80/streams/124/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/UTV_Movies_logo.png/250px-UTV_Movies_logo.png" group-title="Hinde Movies",UTV Movies HD
 
