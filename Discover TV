@@ -1251,7 +1251,7 @@ http://otv.ftpbd.net:80/streams/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic HD
 http://103.135.208.14/live/ibox/bd/61.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic HD
-
+https://ott.bingebd.com:443/live/ngrp:nat_geo_in_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic
@@ -1261,7 +1261,7 @@ http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
-
+https://ott.bingebd.com:443/live/ngrp:nat_geo_wild_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="Information Channel",Nat Geo Wild
 
 
@@ -1858,7 +1858,7 @@ http://45.249.187.238:8081/hls/new18.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="Kids Channel",NICK HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (India)
-
+https://ott.bingebd.com:443/live/ngrp:nickelodeon_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (India)
 http://anytv.live:8080/live/saiful/saiful/332.m3u8
 
