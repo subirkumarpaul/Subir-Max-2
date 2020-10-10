@@ -11,7 +11,7 @@ http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
 http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
+http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
@@ -887,7 +887,7 @@ http://anytv.live:8080/live/saiful/saiful/347.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
 http://10.100.100.134/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
-
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 1 & 2 HD
 http://45.249.187.238:8081/hls/new2.m3u8
