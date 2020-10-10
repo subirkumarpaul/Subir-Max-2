@@ -31,7 +31,7 @@ http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live
-
+http://midesi2.hopto.org:8001/tv2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="IPL Live",IPL Live (Youtube)
 
 
