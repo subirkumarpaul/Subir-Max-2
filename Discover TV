@@ -190,10 +190,14 @@ http://103.205.133.50/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="Bangladesi Entertainment",Mohona TV
 http://103.205.133.50/hls/mohonatv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="Bangladesi Entertainment",Mohona TV
+https://ott.bingebd.com:443/live/ngrp:mohona_tv_all/chunklist_b4535430.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangladesi Entertainment",MY TV
 http://103.205.133.50/hls/mytv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangladesi Entertainment",MY TV
+https://ott.bingebd.com:443/live/ngrp:my_tv_all/chunklist_b1228000.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/O6EkkWUTkKnwbE2dNBDXUkAZnaZhMkmSlPqg8WrvcY9syshAXFoKSFvjvva8bOClrc0TObv_OEVZzZ4q91p1rwvWmcmTj4YRxkrCFIKU2Zf-aGdJGPtvDOQ7hw" group-title=""Bangladesi Entertainment",Ktv bangla HD [BD]
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
