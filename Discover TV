@@ -406,9 +406,9 @@ http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangladesi Music",Gaan Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs8ksejokOpCzGZhcLDRJ3fr7wHThAY0VVng&usqp=CAU" group-title="Bangladesi Music",Gaan Bangla
 http://103.205.133.50/hls/gaanbangla.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangladesi Music",Gaan Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs8ksejokOpCzGZhcLDRJ3fr7wHThAY0VVng&usqp=CAU" group-title="Bangladesi Music",Gaan Bangla
 https://ott.bingebd.com:443/live/ngrp:gaan_bangla_all/chunklist_b1228000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Bangladesi Music",RTV Music
