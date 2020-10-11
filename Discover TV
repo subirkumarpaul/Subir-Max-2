@@ -1535,7 +1535,7 @@ http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxJfwGi4HVlqX3nKNTldHf2N13uEM5BZsLOEFPOJnWM2QrH3Q&usqp=CAU" group-title="English Movies Channel",COMEDY CENTRAL HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="English Movies Channel",COMEDY CENTRAL
-
+https://ott.bingebd.com/live/ngrp:comedy_central_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies Channel",Paramount Comedy 
 http://astra.powernet.com.ru:5000/channel_239.1.10.33/98721854.m3u8
 
