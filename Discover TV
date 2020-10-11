@@ -1818,6 +1818,8 @@ https://ott.bingebd.com/live/ngrp:ary_zindigi_all/chunklist.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
 https://ott.bingebd.com/live/ngrp:bbc_world_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="English News",BBC World
+http://criclive.sonarbanglatv.com:8081/livetv/bbcnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="English News",CNN International
 http://103.102.136.106:8080/cmcltv/tcm_cnnnews.m3u8
