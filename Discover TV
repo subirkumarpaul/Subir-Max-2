@@ -119,6 +119,8 @@ http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesi Entertainment",Maasranga TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesi Entertainment",Maasranga TV
+https://ott.bingebd.com:443/live/ngrp:maasranga_all/chunklist_b1228000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladesi Entertainment",Channel 9 HD
 http://106.0.54.6:8080/hls/channel9_cm_ip.m3u8
