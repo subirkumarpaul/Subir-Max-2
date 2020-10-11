@@ -1149,10 +1149,10 @@ http://ydv2wp0o6ma.a.trbcdn.net:80/hls/m3u8/CDN-HLS-Bein2-F.m3u8
 http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD_DSxyhVoZWXK5Doh7CLofpJRBy9a7uGFSQ&usqp=CAU" group-title="Sports",Bein Sports 3
-http://cdn1.52dvb.xyz:80/5002/playlist.m3u8
+http://criclive.sonarbanglatv.com:8081/livetv/beinsports3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_ILCGobMYdd0zsXHc6pIxZONnsiLyopz8Ow&usqp=CAU" group-title="Sports",Bein Sports 4
-http://cdn1.52dvb.xyz:80/5003/playlist.m3u8
+http://criclive.sonarbanglatv.com:8081/livetv/beinsports4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpSEgwh2JQ8ebeCf9Z64Wy7aAqPx2l0B5TTA&usqp=CAU" group-title="Sports",Bein Sports 5
 http://cdn1.52dvb.xyz:80/5004/playlist.m3u8
