@@ -1138,7 +1138,7 @@ http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU" group-title="Sports",Bein Sports 1
 http://ydv2wp0o6ma.a.trbcdn.net:80/hls/m3u8/CDN-HLS-Bein1-F.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU" group-title="Sports",Bein Sports 1
-http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
+http://criclive.sonarbanglatv.com:8081/livetv/beinsports1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",Bein Sports 2
@@ -1146,7 +1146,7 @@ http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",Bein Sports 2
 http://ydv2wp0o6ma.a.trbcdn.net:80/hls/m3u8/CDN-HLS-Bein2-F.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",Bein Sports 2
-http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
+http://criclive.sonarbanglatv.com:8081/livetv/beinsports2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD_DSxyhVoZWXK5Doh7CLofpJRBy9a7uGFSQ&usqp=CAU" group-title="Sports",Bein Sports 3
 http://criclive.sonarbanglatv.com:8081/livetv/beinsports3/chunks.m3u8
