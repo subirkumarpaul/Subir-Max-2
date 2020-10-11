@@ -1769,7 +1769,7 @@ http://103.205.133.50/hls/zeesalaam.m3u8
 https://ott.bingebd.com/live/ngrp:ptv_world_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcPH6YON1RUCOHjLcZ1P1_9Lfbw_KacCU4DYLjp9piHD9B7RjV&usqp=CAU" group-title="Pakistani Channel",PTV Home
-
+https://ott.bingebd.com/live/ngrp:ptv_home_all/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="Pakistani Channel",PTV Global
 
