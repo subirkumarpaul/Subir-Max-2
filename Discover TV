@@ -1364,6 +1364,9 @@ https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Information Channel",TLC (Hindi)
 https://ott.bingebd.com:443/live/ngrp:tlc_all/chunklist_b2661083.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Information Channel",Nasa TV
+https://nasa-i.akamaihd.net:443/hls/live/253566/NASA-NTV2-Media/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZM6l5rfI3gxWAL08QL7ixmn6LiWfv3gvPWg&usqp=CAU" group-title="Information Channel",The Q
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
