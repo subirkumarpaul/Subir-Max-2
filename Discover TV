@@ -366,7 +366,7 @@ https://ott.bingebd.com:443/live/ngrp:channel_24_all/chunklist_b1228000.m3u8
 http://103.205.133.50/hls/channel24.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tbn24.com/images/logo.png" group-title="Bangladesi News",TBN 24
-http://fingerme.dg21bd.com/TBN24/index.m3u8
+http://fingerme.dg21bd.com:80/TBN24/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaTzaK8uGhzJVj1n3DXKQG_8Pjrvccrg6Bxw&usqp=CAU" group-title="Bangladesi News",Times 24
