@@ -57,7 +57,7 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
 http://103.205.133.50/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
-
+http://global.thunderbd.com/2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
 
 
@@ -65,7 +65,7 @@ http://103.205.133.50/hls/atnbangla.m3u8
 https://23.106.120.42:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangladesi Entertainment",Channel I HD
-
+http://global.thunderbd.com/6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangladesi Entertainment",Channel I HD
 http://103.205.133.50/hls/ichannel.m3u8
 
@@ -89,7 +89,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesi Entertainment",RTV
-
+http://global.thunderbd.com/14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesi Entertainment",RTV
 http://103.205.133.50/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesi Entertainment",RTV
@@ -133,12 +133,12 @@ http://106.0.54.6:8080/hls/channel9_cm_ip.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladesi Entertainment",Channel 9 HD
 http://103.102.136.106:8080/cmcltv/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladesi Entertainment",Channel 9 HD
-
+http://global.thunderbd.com/4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangladesi Entertainment",Bangla Vision
 http://103.205.133.50/hls/banglavision.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangladesi Entertainment",Bangla Vision
-
+http://global.thunderbd.com/3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Kids Channel",Duronto TV
 
@@ -157,7 +157,7 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladesi Entertainment",Deepto TV HD
 http://103.205.133.50/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladesi Entertainment",Deepto TV HD
-
+http://global.thunderbd.com/8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="Bangladesi Entertainment",Asian TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -167,7 +167,7 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangladesi Entertainment",Ananda TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangladesi Entertainment",Ananda TV
-
+http://global.thunderbd.com/16/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="Bangladesi Entertainment",Channel S (UK)
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
@@ -183,7 +183,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangladesi Entertainment",Bangla TV
 http://103.205.133.50/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangladesi Entertainment",Bangla TV
-
+http://global.thunderbd.com/19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangladesi Entertainment",Desh TV
 http://global.thunderbd.com/9/tracks-v1a1/mono.m3u8
@@ -193,7 +193,7 @@ http://global.thunderbd.com/9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladesi Entertainment",SATV
 http://103.205.133.50/hls/satv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladesi Entertainment",SATV
-
+http://global.thunderbd.com/15/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangladesi Entertainment",Nagorik TV
 
@@ -318,13 +318,13 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangladesi News",Ekattor TV
 http://103.205.133.50/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangladesi News",Ekattor TV
-https://ott.bingebd.com:443/live/ngrp:ekattor_tv_all/chunklist.m3u8
+http://global.thunderbd.com/11/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesi News",News 24
 http://103.205.133.50/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesi News",News 24
-
+http://global.thunderbd.com/18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesi News",News 24
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesi News",News 24
@@ -335,10 +335,10 @@ http://103.205.133.50/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangladesi News",DBC News
 http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangladesi News",DBC News
-
+http://global.thunderbd.com/7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="Bangladesi News",Independent TV
-
+http://global.thunderbd.com/12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="Bangladesi News",Independent TV
 http://103.214.202.218:8081/live/independent/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="Bangladesi News",Independent TV
@@ -353,17 +353,17 @@ https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangladesi News",Somoy News
 http://45.249.187.238:8081/hls/hdmi2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangladesi News",Somoy News
-
+http://global.thunderbd.com/17/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangladesi News",Jamuna TV
 http://103.205.133.50/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangladesi News",Jamuna TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangladesi News",Jamuna TV
-
+http://global.thunderbd.com/13/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="Bangladesi News",Channel 24
-
+http://global.thunderbd.com/5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="Bangladesi News",Channel 24
 http://103.205.133.50/hls/channel24.m3u8
 
@@ -517,11 +517,11 @@ https://load.airtel.tv/ddbangla/smil:common.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies HD
-
+http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
-http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
@@ -530,7 +530,7 @@ http://otv.ftpbd.net:80/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
-
+http://global.thunderbd.com/29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
@@ -934,7 +934,7 @@ http://103.70.140.27:8080/hls/cm_sports02.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
 http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
-
+http://global.thunderbd.com/25/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
 http://otv.ftpbd.net:80/streams/104/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
@@ -950,7 +950,7 @@ http://103.102.136.106:8080/cmcltv/livesports.m3u8
 http://45.249.187.238:8081/hls/new2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 2 HD
-
+http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 2 HD
 http://otv.ftpbd.net:80/streams/116/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 2 HD
@@ -968,7 +968,7 @@ http://113.212.111.246:8080/hls/col31.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
-
+http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
 http://103.214.202.218:8081/live/select1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
@@ -978,7 +978,7 @@ http://otv.ftpbd.net:80/streams/113/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",Star Sports Select 2
-
+http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",Star Sports Select 2
 http://103.214.202.218:8081/live/select2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",Star Sports Select 2
@@ -995,7 +995,7 @@ https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
 https://load.airtel.tv/sonyten1/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
-https://ott.bingebd.com:443/live/ngrp:sony_ten_1_all/chunklist.m3u8
+http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
 http://criclive.sonarbanglatv.com:8081/livetv/ten1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
@@ -1004,7 +1004,7 @@ http://otv.ftpbd.net:80/streams/105/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Sports",Sony Ten 2 HD
 http://103.205.133.50/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Sports",Sony Ten 2 HD
-https://ott.bingebd.com:443/live/ngrp:sony_ten_2_all/chunklist.m3u8
+http://global.thunderbd.com/21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Sports",Sony Ten 2 HD
 https://load.airtel.tv/sonyten2hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="Sports",Sony Ten 2 HD
@@ -1019,7 +1019,7 @@ http://criclive.sonarbanglatv.com:8081/livetv/ten2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3 HD
 http://103.205.133.50/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3 HD
-https://ott.bingebd.com:443/live/ngrp:sony_ten_3_all/chunklist.m3u8
+http://global.thunderbd.com/22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3 HD
 https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3 HD
@@ -1032,10 +1032,10 @@ https://load.airtel.tv/sonyten3/smil:common.smil/chunklist.m3u8
 http://criclive.sonarbanglatv.com:8081/livetv/ten3/chunks.m3u8
 
 #EXTINF:-1,Sony ESPN
-http://103.214.202.218:8081/live/espnhd/chunks.m3u8
+http://global.thunderbd.com/23/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
-https://ott.bingebd.com:443/live/ngrp:sony_six_all/playlist.m3u8
+http://global.thunderbd.com/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
 http://103.205.133.50/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
