@@ -607,7 +607,7 @@ http://45.249.187.238:8081/hls/tsl-4.m3u8
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="Hinde Entertainment",Sony Pal
-
+http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hinde Entertainment",Zee TV HD
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
