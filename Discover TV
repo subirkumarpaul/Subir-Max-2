@@ -502,8 +502,8 @@ https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies HD
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies (bingebd)
+https://ott.bingebd.com/live/ngrp:BNMQ007-asWQdt-FQRdgJL-03as-f7as-1ffd2-t16920a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_MCXYyoq_e2209TY1_jalsha_moviestywer_945DF80_sj006568FGQW_uiWQou_f36erTRxty_foTR63089_YUQW/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
@@ -689,17 +689,19 @@ http://telekomtv-ro.akamaized.net:80/shls/LIVE$BollywoodHD/247.m3u8/Level(367001
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold HD
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold UK
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold HD (bingebd)
+https://ott.bingebd.com/live/ngrp:BNMQ-asdt-s67TREKL-03as-f7as-1ffd2-t1682a-sQPO-zp3e-dsf-3b7aa-ort_621h_SKLtyoq_enTY126_star_goldGRE009_980_sjdFFfhSS_uiou_f36erxty_fort63_ASDP/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold UK (bindebd)
+https://ott.bingebd.com/live/ngrp:BNMQ007-asWQdt-FQRdgJL-03as-f7as-1ffd2-t16920a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_MCXYyoq_e2209TY1_star_gold_intltywer_945DF80_sj006568FGQW_uiWQou_f36erTRxty_foTR63089_YUQW/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Hinde Movies",Star Gold
 http://216.144.250.174:80/Star_Gold_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hinde Movies",Star Gold 2 (bingebd)
+https://ott.bingebd.com/live/ngrp:BMC007-asWQdt-sajajdfDD-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-376RTWaa-ort_621h_SRRQtyoq_e376nTY1_movies_okGRE009_4329_sPQWKSS_uiou_f36erxty_fort63_ASDP/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hinde Movies",Star Gold 2
-http://45.249.187.238:8081/hls/tsl-3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Hinde Movies",Star Gold 2
-l
+
 
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Hinde Movies",Star Gold Select HD
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
