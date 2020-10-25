@@ -521,6 +521,7 @@ http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpoRDe2HgtVAiNbv2i90q6qvVWxuvMmlP-LsvwObzQzn_sgu63&usqp=CAU" group-title="Indian Bangla Movies",Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQn6b-aH6MhLdrr4T1GUN5bk4NIJuWAdJ6av-8ug_S4C80dTZwW&usqp=CAyyU" group-title="Indian Bangla Movies",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
