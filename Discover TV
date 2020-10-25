@@ -434,8 +434,8 @@ http://global.thunderbd.com/34/tracks-v1a1/mono.m3u8
 http://103.205.133.50/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla
 http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla (bingebd)m
+https://ott.bingebd.com/live/ngrp:BMC007-asWQdt-sajajdfDD-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-376RTWaa-ort_621h_SRRQtyoq_e376nTY1_zee_banglaGRE009_4329_sPQWKSS_uiou_f36erxty_fort63_ASDP/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
