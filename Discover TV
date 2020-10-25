@@ -1612,8 +1612,8 @@ https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
 http://anytv.live:8080/live/saiful/saiful/356.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="English Movies Channel",Warner TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="English Movies Channel",Warner TV
-https://ott.bingebd.com:443/live/ngrp:wb_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="English Movies Channel",Warner TV (bingebd)
+https://ott.bingebd.com/live/ngrp:SUITioo-asWQdt-FSKZXout009-03as-f7wq-1FDd2-t16910a-sgh32x-zp3e-dsf-3b7QQaa-ort_621h_wTIZLyoq_e37104TY1_wbGRE009_2275_sjdFFfhSS_uxzh_f36erxty_cord008_ASDP/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdOU1MURm3ElUStHv-_h_pA0OC60RWTlH2Rw&usqp=CAU" group-title="English Movies Channel",MBC Max HD
