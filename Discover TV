@@ -402,7 +402,7 @@ http://global.thunderbd.com/58/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Bangladesi Music",RTV Music
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Bangladesi Music",RTV Music
-
+http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/650.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/musicchoice-logo-.jpg" group-title="Bangladesi Music",Music Choice
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/musicchoice.stream/live-orgin/musicchoice.stream/chunks.m3u8
