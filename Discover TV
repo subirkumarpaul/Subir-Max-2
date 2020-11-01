@@ -167,7 +167,7 @@ http://103.205.133.50/hls/banglatv.m3u8
 http://global.thunderbd.com/19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangladesi Entertainment",Desh TV
-http://global.thunderbd.com/9/tracks-v1a1/mono.m3u8
+http://bdvisioniptv.ddns.net:25461/live/nashahz/bd101/176.m3u8
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangladesi Entertainment",Desh TV
 
 
