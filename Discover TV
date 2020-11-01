@@ -787,7 +787,7 @@ http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/206.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/UTV_Movies_logo.png/250px-UTV_Movies_logo.png" group-title="Hinde Movies",UTV Movies HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/UTV_Movies_logo.png/250px-UTV_Movies_logo.png" group-title="Hinde Movies",UTV Movies
-
+http://10.100.100.134/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjiT7HwkS3gJqTlA7QGqzt5iBFP495cCb3Vg&usqp=CAU" group-title="Hinde Movies",UTV HD
 
 
