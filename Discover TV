@@ -1939,7 +1939,7 @@ http://gargoyle.tomkow.pl/hls/tvt.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD+ (India)	
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD+ (India)	
-http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8	
+http://otv.ftpbd.net/streams/123/index.m3u8	
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD (India)	
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids Channel",Cartoon Network HD	
@@ -1967,7 +1967,7 @@ https://yupppreview.akamaized.net/preview/wowkidztam/2500.m3u8
 http://indtv.online/zee5/0-9-290.m3u8	
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSHbSX9sd5fLs7-JGPua0waVKK58DPPn9IwQ&usqp=CAU" group-title="Kids Channel",Disney Channel	
-
+http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSHbSX9sd5fLs7-JGPua0waVKK58DPPn9IwQ&usqp=CAU" group-title="Kids Channel",Disney Channel	
 
 
