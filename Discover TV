@@ -1995,15 +1995,15 @@ http://otv.ftpbd.net/streams/122/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="Kids Channel",NICK HD (bingebd)	
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (India)	
-	
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (India)
+https://load.airtelxstream.in/nick/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (bingebd)	
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Kids Channel",NICK (India)	
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla	
-
+https://load.airtelxstream.in/sonic/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids Channel",Sonic Bangla	
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU" group-title="Kids Channel",Nick Jr (bingebd)	
