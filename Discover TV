@@ -553,7 +553,7 @@ http://103.205.133.50/hls/dhoommusic.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYAK27s6yApNIA9H25yC_eMELECZy20QZh7EeHzvoL_hJeSDyw&usqp=CAU" group-title="Indian Bangla Music",Bangla Takies
-http://203.76.107.50/bpk-token/kimicsui5aaaaaaaamtsrsbaaaaaaaaaaaaguafhcsmit1qg/0000000/10081-audio_48643_und=48000-video=1500000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla News",News 18 Bangla
@@ -597,11 +597,11 @@ http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
 http://c1live.com:8081/c1live/sony/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
-http://103.70.140.27:8080/hls/tcm_sonyhd_cm_ip.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
-http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
+ll
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
-http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
 http://103.205.133.50/hls/chs.m3u8
 
@@ -649,7 +649,7 @@ http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
 http://103.205.133.50/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hinde Entertainment",Colors
-http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU" group-title="Hinde Entertainment",And TV HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
