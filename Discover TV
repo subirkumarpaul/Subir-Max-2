@@ -1648,8 +1648,8 @@ http://playlive.goonj.pk/filmworldweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/110-1103882_hollywood-tv-logo-clipart.png" group-title="English Movies Channel",Hollywood TV
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU" group-title="English Movies Channel",Star World (India)
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU" group-title="English Movies Channel",Star World
+http://digitalxpress.gcdn.co/live1/OSNSTARWORLD/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm7ORhOnbRxb2uJD0LJibEsCCC0VlqPzcrEL7eJuYeLocqrRHQ&usqp=CAU" group-title="Hinde Music",MTV HD+
 
