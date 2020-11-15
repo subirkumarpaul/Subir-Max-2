@@ -427,7 +427,7 @@ http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
 http://103.205.133.50/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
-http://otv.ftpbd.net/streams/127/index.m3u8
+http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
@@ -476,7 +476,7 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRARyGX2dUuyJykbMmjHZi_Gyt910zVt-bkLQ&usqp=CAU" group-title="Indian Bangla Entertainment",Sun Bangla
-
+http://otv.ftpbd.net/streams/127/index.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG" group-title="Indian Bangla Entertainment ",DD Bangla
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
