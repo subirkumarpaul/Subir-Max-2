@@ -1454,8 +1454,8 @@ https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Cooking Channel",Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies  HD (India)
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies  HD (Hinde)
+http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies (India)
 http://master.beeiptv.com:8081/MB/starmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies (India)
