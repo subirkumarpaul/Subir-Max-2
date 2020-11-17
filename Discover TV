@@ -1140,7 +1140,7 @@ http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU" group-title="Sports",Bein Sports 1
 http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU" group-title="Sports",Bein Sports 1
-
+http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",Bein Sports 2
@@ -1148,34 +1148,36 @@ http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",Bein Sports 2
 http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",Bein Sports 2
-
+http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD_DSxyhVoZWXK5Doh7CLofpJRBy9a7uGFSQ&usqp=CAU" group-title="Sports",Bein Sports 3
-
+http://cdn1.52dvb.xyz:80/5002/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_ILCGobMYdd0zsXHc6pIxZONnsiLyopz8Ow&usqp=CAU" group-title="Sports",Bein Sports 4
 http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_ILCGobMYdd0zsXHc6pIxZONnsiLyopz8Ow&usqp=CAU" group-title="Sports",Bein Sports 4
+http://cdn1.52dvb.xyz:80/5003/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpSEgwh2JQ8ebeCf9Z64Wy7aAqPx2l0B5TTA&usqp=CAU" group-title="Sports",Bein Sports 5
-
+http://cdn1.52dvb.xyz:80/5004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpSEgwh2JQ8ebeCf9Z64Wy7aAqPx2l0B5TTA&usqp=CAU" group-title="Sports",Bein Sports 5
 http://dx3.gcdn.co/BEINSPORTSMAX5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUULzWCz05mMIETGC7_86MsWfEaDNkMaJ6LA&usqp=CAU" group-title="Sports",Bein Sports 6
-
+http://cdn1.52dvb.xyz:80/5005/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc4rjD1o12vLUXj-JZpQEr-93h3VyCcQqsFQ&usqp=CAU" group-title="Sports",Bein Sports 7
-
+http://cdn1.52dvb.xyz:80/5006/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/BEIN8.png" group-title="Sports",Bein Sports 8
-
+http://cdn1.52dvb.xyz:80/5007/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/42/64/42/42644282ab24398b2823477e8165b9b3.png" group-title="Sports",Bein Sports 9
-
+http://cdn1.52dvb.xyz:80/5008/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_ILCGobMYdd0zsXHc6pIxZONnsiLyopz8Ow&usqp=CAU" group-title="Sports",Olempic Channel
-
+http://cdn1.52dvb.xyz:80/5009/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRktox4IoUgLNVPWvQ8COmEKgQzpIzs5RBDit9cVBKxQGJn4syC&usqp=CAU" group-title="Sports",Bein Sports 11
