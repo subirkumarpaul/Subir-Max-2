@@ -904,7 +904,7 @@ http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hinde Movies",Mini Plax
 https://streamitv.multitvsolution.in/idvo/multiplexcinema.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS (Free)",T SPORTS [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",T SPORTS [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",Star Sports 1 HD
@@ -1123,6 +1123,32 @@ http://dx4.gcdn.co/UK1302/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeetAODNQ5LdAXfBgm02fHoQfoUBnImvuEbnjGHfmGFj-bpOQx&usqp=CAU" group-title="Sports",Sky Sports Mix
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeetAODNQ5LdAXfBgm02fHoQfoUBnImvuEbnjGHfmGFj-bpOQx&usqp=CAU" group-title="Sports",Sky Sports Mix
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysports5.jpg",Sky sport EPL HD
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysports1.jpg",Sky Sport event HD
+http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysportsfoot.jpg",Sky sport football HD
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysportsmix.jpg",Sky sport mix HD
+http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysports3.jpg",Sky sport Action HD
+http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysportsarena.jpg",Sky sport arena HD
+http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysports4.jpg",Sky sport Golf HD
+http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.iptvhero.com//channel//uk-skysportsf1.jpg",Sky Sport F1 HD
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports",Willow cricket
 
