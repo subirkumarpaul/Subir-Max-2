@@ -928,7 +928,7 @@ http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
 http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
-
+http://dx3.gcdn.co/STARSPORTS3/index.m3u8?@asfaiptv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 1 & 2 HD
 
@@ -1062,7 +1062,7 @@ http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU" group-title="Sports",Geo Super
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU" group-title="Sports",Geo Super
-
+http://dx3.gcdn.co/GEOSUPER/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU" group-title="Sports",Ten Sports PK
