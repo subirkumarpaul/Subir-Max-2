@@ -11,7 +11,7 @@ http://103.205.133.21/hls/btv.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangladesi National TV",BTV World
 http://103.205.133.21/hls/btvworld.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangladesi National TV",BTV World
-http://master.beeiptv.com:8081/MB/btv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/btv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTO-S_2m91zxm2KECBNAR5rzjoCrxPWVqKQKcsUUwEZ9raUkbq&usqp=CAU" group-title="Bangladesi National TV",BTV Chottogram
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesi National TV",Sangsad TV
@@ -24,14 +24,14 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
 http://103.205.133.21/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
-http://master.beeiptv.com:8081/MB/atnbangla/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/atnbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesi Entertainment",ATN Bangla
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxBP6wvL_QiwtjbRIhVmtkOyjAIYg-ynX1rQ&usqp=CAU" group-title="Bangladesi Entertainment",ATN Bangla UK
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangladesi Entertainment",Channel I HD
-http://master.beeiptv.com:8081/MB/channeli/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/channeli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangladesi Entertainment",Channel I HD
 http://103.205.133.21/hls/ichannel.m3u8
 
@@ -44,7 +44,7 @@ https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladesi Entertainment",NTV
-http://master.beeiptv.com:8081/MB/ntv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png" group-title="Bangladesi Entertainment.",NTV
 http://103.205.133.25/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="Bangladesi Entertainment",NTV(UK)
@@ -55,7 +55,7 @@ http://103.205.133.25/hls/ntv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesi Entertainment",RTV
-http://master.beeiptv.com:8081/MB/rtv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/rtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesi Entertainment",RTV
 http://103.205.133.21/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangladesi Entertainment",RTV
@@ -67,7 +67,7 @@ http://103.205.133.21/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladesi Entertainment",Gazi TV
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladesi Entertainment",Gazi TV
-http://master.beeiptv.com:8081/MB/gtv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladesi Entertainment",Gazi TV
 http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangladesi Entertainment",Gazi TV
@@ -88,7 +88,7 @@ http://otv.ftpbd.net/streams/108/index.m3u8
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesi Entertainment",Maasranga TV
-http://master.beeiptv.com:8081/MB/maasranga/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/maasranga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesi Entertainment",Maasranga TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesi Entertainment",Maasranga TV
@@ -99,17 +99,17 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladesi Entertainment",Channel 9 HD
 http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/104.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladesi Entertainment",Channel 9 HD
-http://master.beeiptv.com:8081/MB/channel9/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/channel9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangladesi Entertainment",Channel 9 HD
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangladesi Entertainment",Bangla Vision
 http://103.205.133.21/hls/banglavision.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangladesi Entertainment",Bangla Vision
-http://master.beeiptv.com:8081/MB/banglavision/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/banglavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Kids Channel",Duronto TV
-http://master.beeiptv.com:8081/MB/duronto/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/duronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Kids Channel",Duronto TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Kids Channel",Duronto TV
@@ -125,10 +125,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladesi Entertainment",Deepto TV HD
 http://103.205.133.21/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladesi Entertainment",Deepto TV HD
-http://master.beeiptv.com:8081/MB/deeptotv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/deeptotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="Bangladesi Entertainment",Asian TV
-http://master.beeiptv.com:8081/MB/asian/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/asian/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="Bangladesi Entertainment",Asian TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
@@ -142,7 +142,7 @@ https://bdsl.jagobd.com/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWx
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladesi Entertainment",Boishakhi TV
-http://master.beeiptv.com:8081/MB/boishakhi/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/boishakhi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladesi Entertainment",Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladesi Entertainment",Boishakhi TV
@@ -151,33 +151,33 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangladesi Entertainment",Bangla TV
 http://103.205.133.21/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangladesi Entertainment",Bangla TV
-http://master.beeiptv.com:8081/MB/banglatv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/banglatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangladesi Entertainment",Desh TV
-http://master.beeiptv.com:8081/MB/desh/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/desh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangladesi Entertainment",Desh TV
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladesi Entertainment",SATV
 http://103.205.133.21/hls/satv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladesi Entertainment",SATV
-http://master.beeiptv.com:8081/MB/satv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/satv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangladesi Entertainment",Nagorik TV
-http://master.beeiptv.com:8081/MB/nagoriktv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/nagoriktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangladesi Entertainment",Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="Bangladesi Entertainment",Mohona TV
 http://103.205.133.21/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="Bangladesi Entertainment",Mohona TV
-http://master.beeiptv.com:8081/MB/mohona/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/mohona/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangladesi Entertainment",MY TV
 http://103.205.133.21/hls/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangladesi Entertainment",MY TV
-http://master.beeiptv.com:8081/MB/mytv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/mytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/O6EkkWUTkKnwbE2dNBDXUkAZnaZhMkmSlPqg8WrvcY9syshAXFoKSFvjvva8bOClrc0TObv_OEVZzZ4q91p1rwvWmcmTj4YRxkrCFIKU2Zf-aGdJGPtvDOQ7hw" group-title=""Bangladesi Entertainment",Ktv bangla HD [BD]
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
@@ -277,7 +277,7 @@ http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Bangladesi News",ATN News
 http://103.205.133.21/hls/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Bangladesi News",ATN News
-http://master.beeiptv.com:8081/MB/atnnews/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/atnnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangladesi News",Ekattor TV
 
@@ -292,7 +292,7 @@ http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesi News",News 24
 http://103.205.133.21/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesi News",News 24
-http://master.beeiptv.com:8081/MB/news24/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/news24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesi News",News 24
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesi News",News 24
@@ -301,7 +301,7 @@ http://master.beeiptv.com:8081/MB/news24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangladesi News",DBC News
 http://103.205.133.21/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangladesi News",DBC News
-http://master.beeiptv.com:8081/MB/dbcnews/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/dbcnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangladesi News",DBC News
 
 
@@ -315,7 +315,7 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangladesi News",Somoy News
-http://master.beeiptv.com:8081/MB/somoy/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/somoy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangladesi News",Somoy News
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangladesi News",Somoy News
@@ -328,10 +328,10 @@ http://103.205.133.21/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangladesi News",Jamuna TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangladesi News",Jamuna TV
-http://master.beeiptv.com:8081/MB/jamunatv/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/jamunatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="Bangladesi News",Channel 24
-http://master.beeiptv.com:8081/MB/channel24/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="Bangladesi News",Channel 24
 http://103.205.133.21/hls/channel24.m3u8
 
@@ -384,7 +384,7 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Gaan_Bangla_Logo.png" group-title="Bangladesi Music",Gaan Bangla
 http://103.205.133.21/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Gaan_Bangla_Logo.png" group-title="Bangladesi Music",Gaan Bangla
-http://master.beeiptv.com:8081/MB/gaanbangla/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/gaanbangla/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Bangladesi Music",RTV Music
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
@@ -399,7 +399,7 @@ http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/27.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha HD
 http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha
-http://master.beeiptv.com:8081/MB/starjalsha/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/starjalsha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Indian Bangla Entertainment ",Star Jalsha
@@ -414,7 +414,7 @@ http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla HD
-http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/zeebangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla
 http://103.205.133.21/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla
@@ -423,7 +423,7 @@ http://103.205.133.21/hls/zeebangla.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
-http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/sonyaath/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian Bangla Entertainment ",Sony Aath
@@ -440,7 +440,7 @@ https://load.airtelxstream.in/colorsbanglahd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
-http://master.beeiptv.com:8081/MB/colorsbangla/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/colorsbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
 https://load.airtelxstream.in/colorsbangla/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla
@@ -482,7 +482,7 @@ http://otv.ftpbd.net/streams/127/index.m3u
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies HD
-http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/starjalshamovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies
@@ -495,7 +495,7 @@ https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
 https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
-http://master.beeiptv.com:8081/MB/zeebanglacinema/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/zeebanglacinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
@@ -1488,7 +1488,7 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies  HD (Hinde)
 http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies (India)
-http://master.beeiptv.com:8081/MB/starmovies/playlist.m3u8
+http://master.beeiptv.com:8081/colorsiptv/starmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies Channel",Star Movies (India)
 http://otv.ftpbd.net/streams/125/index.m3u8
 
