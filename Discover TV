@@ -1374,7 +1374,7 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Information Channel",Sony BBC Earth HD
 http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="Information Channel",Sony BBC Earth HD (Hindi)
-http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
+http://156.146.43.241:2200/R-EX/HINDI_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Information Channel",National Geographic HD (Bangla)
 
