@@ -786,7 +786,7 @@ https://watchindia.net:8443/live/94922/42004/805.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/UTV_Movies_logo.png/250px-UTV_Movies_logo.png" group-title="Hinde Movies",UTV Movies
 http://10.100.100.134/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjiT7HwkS3gJqTlA7QGqzt5iBFP495cCb3Vg&usqp=CAU" group-title="Hinde Movies",UTV HD
-
+http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png" group-title="Hinde Movies",Zee Action
 
@@ -937,7 +937,9 @@ http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
 http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
-http://dx3.gcdn.co/STARSPORTS3/index.m3u8?@asfaiptv
+http://dx3.gcdn.co/STARSPORTS3/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" group-title="Sports",Star Sports 1 Hindi
+http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 1 & 2 HD
 
@@ -945,7 +947,7 @@ http://dx3.gcdn.co/STARSPORTS3/index.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 2 HD
 http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 2 HD
-
+http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 2 HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" group-title="Sports",Star Sports 2
@@ -961,16 +963,16 @@ http://113.212.111.246:8080/hls/col31.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
-http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/212.m3u8
+http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
-http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",Star Sports Select 2
-http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/198.m3u8
+http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",Star Sports Select 2
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",Star Sports Select 2
