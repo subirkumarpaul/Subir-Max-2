@@ -831,9 +831,9 @@ http://z5amshls.akamaized.net/andpicssd/tracks-v2a1/mono.m3u8
 https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMobGI-p25pXFty4VhxAvYVhCOHboQGaosmHkCnEaNcIhRf2bD&usqp=CAU" group-title="Hinde Movies",And Xplor HD
-https://z5ams.akamaized.net:443/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/exp=1602425736~acl=%2f*~data=hdntl~hmac=c7e5bfbba391a82619e638ebb9c2cd97df440433b904bcbeaa1addc140621a60/index_13.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMobGI-p25pXFty4VhxAvYVhCOHboQGaosmHkCnEaNcIhRf2bD&usqp=CAU" group-title="Hinde Movies",And Xplor HD
-http://iptv-line.com:7899/ni7fmatQ3r/r2j5rbcy4E/303?play_token=nk4PodiC77
+https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
 
 #EXTINF:-1 group-title="Hinde Movies",VENUS TV
 http://45.77.90.56:8080/hls/mystream.m3u8
