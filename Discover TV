@@ -602,8 +602,8 @@ https://any.hitectv.live:4443/sonysab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hinde Entertainment",Sony SAB HD
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hinde Entertainment",Sony SAB HD
-http://156.146.43.241:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/mono.m3u8?token=
-http://89.187.169.204:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=
+http://103.146.55.212:8088/sonysab/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg?1" group-title="Hinde Entertainment",Sony Pal
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
