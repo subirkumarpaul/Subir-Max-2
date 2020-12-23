@@ -441,7 +441,7 @@ https://khulnalive.anytv.live/sonyaath/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
 http://89.187.169.204:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=RED
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD 
-http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
+http://103.146.55.212:8088/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
 http://89.187.169.204:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8?token=RED
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Indian Bangla Entertainment ",Colors Bangla HD
@@ -505,6 +505,8 @@ http://89.187.169.204:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/tracks-v1a1/mono.m3
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla Movies",Zee Bangla Cinema
+http://103.146.55.212:8088/zeebangcine/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpoRDe2HgtVAiNbv2i90q6qvVWxuvMmlP-LsvwObzQzn_sgu63&usqp=CAU" group-title="Indian Bangla Movies",Tele Film
 http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
