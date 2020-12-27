@@ -742,9 +742,9 @@ https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
 https://any.hitectv.live:4443/sonymax2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
-https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8
+http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMUW7EbBbCWsTycg9p3mQkTkh4CmbEwJFbnDpxC59reK5Kooo0&usqp=CAU" group-title="Hinde Movies",Sony WAH
 http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
@@ -1359,6 +1359,8 @@ http://live-ng-01.more.tv:80/hls/Discovery_HD/index_1.m3u8
 http://103.47.132.165:80/PLTV/88888888/224/3221227169/2.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Information Channel",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/discoverytamil-1.png" group-title="Information Channel",Discovey Tamil
+https://streamitv.multitvsolution.in/idvo/discoverytamil_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU" group-title="Information Channel",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU" group-title="Information Channel",Discovery Asia
