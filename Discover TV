@@ -1063,7 +1063,7 @@ http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 http://103.84.253.5:80/live/fastfeed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQan9sYoSXeK_Fs-gGKeC-GF5eWrezQHrAkqYZSNcpNdusmyIfJ&usqp=CAU" group-title="Sports",D Sports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQan9sYoSXeK_Fs-gGKeC-GF5eWrezQHrAkqYZSNcpNdusmyIfJ&usqp=CAU" group-title="Sports",D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
