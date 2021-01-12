@@ -927,7 +927,7 @@ http://23.186.192.55:8080/live/primeplus/index.m3u8
 https://streamitv.multitvsolution.in/idvo/multiplexcinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",T SPORTS [BD]
-http://175.41.46.16:8081/hls/11.m3u8
+http://209.126.120.153:80/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",T SPORTS [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Sports",T SPORTS [BD]
