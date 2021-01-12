@@ -1735,6 +1735,8 @@ http://digitalxpress.gcdn.co/live1/OSNSTARWORLD/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm7ORhOnbRxb2uJD0LJibEsCCC0VlqPzcrEL7eJuYeLocqrRHQ&usqp=CAU" group-title="Hinde Music",MTV
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIWBdGkLjwT0offQbp1LRvXXpCcK1jE884g&usqp=CAU" group-title="Hinde Music",I Love Music TV
+https://ilove.livebox.co.in:443/wowinhls/live.m3u8
 
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="Music",Dilse HUNGAMA Hits 
 https://live.hungama.com/linear/dil-se/chunklist.m3u8
