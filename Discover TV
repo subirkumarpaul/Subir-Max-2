@@ -2094,7 +2094,9 @@ http://dx3.gcdn.co/kids-NICKJR/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids Channel",Discovery Kids	
-https://streamitv.multitvsolution.in/idvo/discoverykidseng.m3u8	
+https://streamitv.multitvsolution.in/idvo/discoverykidseng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids Channel",Discovery Kids (Hindi)	
+https://itvorigin.multitvsolution.com:443/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids Channel",Discovery Kids (Hindi)	
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8	
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids Channel",Discovery Kids (Hindi)	
