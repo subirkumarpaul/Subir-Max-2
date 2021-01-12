@@ -1182,6 +1182,9 @@ http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU",Astro Supersports 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports",Willow cricket
 http://istreamtv.xyz/api/isports/isports.php?id=1259
