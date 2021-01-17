@@ -1201,7 +1201,7 @@ http://istreamtv.xyz/api/isports/isports.php?id=1259
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports",Willow cricket Extra
 http://istreamtv.xyz/api/isports/isports.php?id=1260
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="Sports",Super Sports Cricket
-http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/199.m3u8
+http://45.249.9.21:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="Sports",Super Sports Cricket
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_SB87YK_WWWMlRH1RLSCgmb3AXSM1_biH84B7VdS8mBF1aE_0&usqp=CAU" group-title="Sports",Bein Sports USA
