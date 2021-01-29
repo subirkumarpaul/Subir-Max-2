@@ -797,7 +797,7 @@ http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.mymoviebazar.net/images/utv-action.png" group-title="Hinde Movies",UTV Action
-http://otv.ftpbd.net/streams/124/index.m3u8
+http://otv.ftpbd.net/streams/1024/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.mymoviebazar.net/images/utv-action.png" group-title="Hinde Movies",UTV Action
 http://89.187.169.204:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=RED
 
