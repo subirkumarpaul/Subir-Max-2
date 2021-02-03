@@ -591,7 +591,7 @@ https://mhdtvworld.xyz:443/delta/rbox/redboX.php?id=2025&e=.m3u8
 https://livevoot-i.akamaihd.net:443/dash/live/828520/colorshd/master.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
-http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+http://209.126.120.153/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
 http://89.187.169.204:2200/R-EX/HINDI_SONY_HD-in/index.m3u8?token=RED
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
