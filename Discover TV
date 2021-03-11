@@ -902,6 +902,30 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 https://streamitv.multitvsolution.in/idvo/mahamovie_540p/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 01
+http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 02
+http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
+
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 03
+http://fun6.xyz:8880/HINDI_CINEMA_03/index.m3u8
+
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 04
+http://fun6.xyz:8880/HINDI_CINEMA_04/index.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 05
+http://fun6.xyz:8880/HINDI_CINEMA_05/index.m3u8
+
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 06
+http://fun6.xyz:8880/HINDI_CINEMA_06/index.m3u8
+
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 07
+http://fun6.xyz:8880/HINDI_CINEMA_07/index.m3u8
+
+#EXTINF:-1  tvg-logo="noimage.png" group-title="Hindi Movies", Hindi Cinema 08
+http://fun6.xyz:8880/HINDI_CINEMA_08/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hinde Movies",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
