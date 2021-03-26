@@ -481,7 +481,10 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 https://streamitv.multitvsolution.in/idvo/orangetv_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRARyGX2dUuyJykbMmjHZi_Gyt910zVt-bkLQ&usqp=CAU" group-title="Indian Bangla Entertainment",Sun Bangla
-http://otv.ftpbd.net/streams/127/index.m3u
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="New",55.DD Bangla
+https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG" group-title="Indian Bangla Entertainment ",DD Bangla
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
