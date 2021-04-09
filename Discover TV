@@ -992,6 +992,11 @@ http://51.159.4.21:3135/Cric/9/index.m3u8
 #EXTINF:-1,Live 10
 http://51.159.4.21:3135/Cric/10/index.m3u8
 
+#EXTINF:-1,Live 1 X
+http://62.171.150.44:1935/live/live2/chunklist.m3u8
+#EXTINF:-1,Live 1
+http://62.171.150.44:1935/live/live2/chunklist.m3u8
+
 
 
 
