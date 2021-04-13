@@ -598,7 +598,7 @@ https://livevoot-i.akamaihd.net:443/dash/live/828520/colorshd/master.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
 http://209.126.120.153/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
-http://89.187.169.204:2200/R-EX/HINDI_SONY_HD-in/index.m3u8?token=RED
+http://208.115.215.42:80/Sony_Tv_HD_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
 http://103.205.133.48/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hinde Entertainment",Sony HD
@@ -753,7 +753,7 @@ https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
 https://any.hitectv.live:4443/sonymax2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
-http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+http://208.115.215.42:80/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hinde Movies",Sony Max 2
 http://208.115.215.42:80/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 
