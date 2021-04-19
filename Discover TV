@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url=""
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1,IPL 2021
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJsNGj1JwDC0Hz7hQXa2l2SmdodvdGWofag&usqp=CAU" group-title="IPL",IPL 2021
 https://vsd123.mycdn.me/hls/1011381963396.m3u8/sig/C0PJ0-QNel8/expires/1618861623346/srcIp/123.253.37.77/clientType/0/srcAg/CHROME_ANDROID/mid/2263826767492/1011381963396_high/index.m3u8
-#EXTINF:-1,IPL 2021 (2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJsNGj1JwDC0Hz7hQXa2l2SmdodvdGWofag&usqp=CAU" group-title="IPL",IPL 2021 (2)
 https://vsd75.mycdn.me/hls/1129113914034.m3u8/sig/6aW0lSQIkJ0/expires/1618855104150/srcIp/123.253.37.77/clientType/0/srcAg/CHROME_ANDROID/mid/2443941781170/video.m3u8
-#EXTINF:-1,IPL 2021 (3)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJsNGj1JwDC0Hz7hQXa2l2SmdodvdGWofag&usqp=CAU" group-title="IPL",IPL 2021 (3)
 https://vsd108.mycdn.me/hls/1129113914034.m3u8/sig/3Hv0qdiROaE/expires/1618898923785/srcIp/123.253.37.77/clientType/0/srcAg/CHROME_ANDROID/mid/2443941781170/video.m3u8
 
 
