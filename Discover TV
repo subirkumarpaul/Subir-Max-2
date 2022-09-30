@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url=""
-#EXTM3U x-tvg-url=""
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJsNGj1JwDC0Hz7hQXa2l2SmdodvdGWofag&usqp=CAU" group-title="IPL",IPL 2021
 https://vsd123.mycdn.me/hls/1011381963396.m3u8/sig/C0PJ0-QNel8/expires/1618861623346/srcIp/123.253.37.77/clientType/0/srcAg/CHROME_ANDROID/mid/2263826767492/1011381963396_high/index.m3u8
