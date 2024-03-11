@@ -2935,11 +2935,11 @@ https://api.bongohub.pw/playlist/bioscope.php?id=mtv|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="62" tvg-name="Colors Infinity" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/20921d50-bc3d-4d99-9357-78320a582e40/9085e9bd-b79a-47d7-9d24-7fb85a741968.png?width=300" tvg-chno="1" group-title="BDSAJIB-Bioscope",Colors Infinity
 https://api.bongohub.pw/playlist/bioscope.php?id=colors-infinity|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="63" tvg-name="MTV Beats" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6dbec8ae-f3c1-4f58-a9e7-1bda442b1de5/487bdf23-fe1a-4410-aa93-eda6dfd34dda.jpg?width=300" tvg-chno="1" group-title="BDSAJIB-Bioscope",MTV Beats 
-https://api.bongohub.pw/playlist/bioscope.php?id=mtv-beats|User-Agent=bdsajib
+https://bongohub.pw/bioscope.php?cc=mtv-beats
 #EXTINF:-1 tvg-id="64" tvg-name="VH1" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a6fa91ea-b555-48b5-b547-8fb1495b6708/2ab4a1f0-a1fd-4e7a-ba71-34f7967805fa.png?width=300" tvg-chno="1" group-title="BDSAJIB-Bioscope",VH1
-https://api.bongohub.pw/playlist/bioscope.php?id=vh1|User-Agent=bdsajib
+https://bongohub.pw/bioscope.php?cc=vh1
 #EXTINF:-1 tvg-id="65" tvg-name="Sony Yay" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d20356ee-1ca5-4792-94ec-bb900504437b/bf8b3f46-c810-420f-a90d-9f6834c36b3c.png?width=300" tvg-chno="1" group-title="BDSAJIB-Bioscope",Sony Yay
-https://api.bongohub.pw/playlist/bioscope.php?id=sony-yay-live
+https://bongohub.pw/bioscope.php?cc=sony-yay-live
 
 
 #Bongo 
