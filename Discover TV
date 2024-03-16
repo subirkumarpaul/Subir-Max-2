@@ -2267,7 +2267,87 @@ http://index2.circleftp.net/FILE/English%20Movies/2023/Mission%20Impossible%20-%
 #EXTINF:-1 tvg-logo="" group-title="Movies",Jungle Cruise
 
 
-
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="Palki.tv", BTV
+http://cdn01.palki.tv/live/BTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3KgmRJn/Bangladesh-Television-Chittagong-Logo.png" group-title="Palki.tv", BTV Chattogram
+http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg" group-title="Palki.tv", BTV World
+http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7TH7nQY/1200px-Sangsad-Television-Emblem-svg.png" group-title="Palki.tv", Sangsad TV
+http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXhfKc8M/Anandatvupdate.jpg" group-title="Palki.tv", Anando TV
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png" group-title="Palki.tv", ATN Bangla
+http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zCRmK80/Atnnews.jpg" group-title="Palki.tv", ATN News
+http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png" group-title="Palki.tv", Banglavision HD
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="Palki.tv", Bijoy TV
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnM8ZZH3/pTJSGtj.png" group-title="Palki.tv", Boishakhi TV
+http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWQmcw2/Channel9.jpg" group-title="Palki.tv", Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QyXD8yp/p0I5dr0.png" group-title="Palki.tv", Channel I
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png" group-title="Palki.tv", Ekattor TV
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Palki.tv", Ekhon TV
+http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png" group-title="Palki.tv", Ekushey TV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png" group-title="Palki.tv", Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLtHgwSV/Logo-Global-Television.png" group-title="Palki.tv", Global TV
+http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png" group-title="Palki.tv", Green TV
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png" group-title="Palki.tv", Independent
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhCFJyK6/b-logo.png" group-title="Palki.tv", Madani Channel Bangla
+http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qTZLLY3/4imblNY.jpg" group-title="Palki.tv", Mohona TV
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y40dwCw/mn88b34.png" group-title="Palki.tv", News 24
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="Palki.tv", Nexus TV
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Palki.tv", NTV
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqfbV4jr/Z2QvpTn.png" group-title="Palki.tv", Somoy TV
+http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nL1VSHFx/favicon.png" group-title="Palki.tv", TBN 24 USA
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="Palki.tv", WION
+http://cdn01.palki.tv/live/WION-M/index.m3u8
 
 
 
